@@ -1,0 +1,20 @@
+{{- with $.Site.Params.homeInfoParams }}
+<div style="float: right !important; margin-top:270px;">
+    Topics:
+    <h3 id=perfectionism><a href=/categories/perfectionism/>Perfectionism</a></h3>
+    <h3 id=bullying><a href=/categories/bullying/>Bullying</a></h3>
+    <h3 id=consumer-decisions><a href=/categories/consumer-decisions/>Consumer Decisions</a></h3>
+</div>
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <section class="entry-content">
+        <p>{{ .Content | markdownify }}</p>
+    </section>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" $.Site.Params.socialIcons }}
+    </footer>
+</article>
+<div style="font-size: 18px !important;">Most recent posts:</div>
+{{- end -}}
