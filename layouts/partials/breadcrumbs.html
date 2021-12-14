@@ -1,0 +1,15 @@
+{{- if (.Param "ShowBreadCrumbs") -}}
+<div class="breadcrumbs">
+    {{- $url := replace .Parent.Permalink (printf "%s" .Site.BaseURL) "" }}
+    {{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url -}}
+
+    <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
+    &nbsp;»&nbsp; <a href="{{ "" | absLangURL }}topics/">Topics</a>
+
+        {{ if .Params.categories }}
+        {{ if gt (len .Params.categories) 0 }}  {{ end }} 
+        {{ range $index, $category := .Params.categories }}{{ if gt $index 0 }}, {{ end }} &nbsp;»&nbsp; <a href="{{ "categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
+        {{ end }}
+
+</div>
+{{- end -}}
