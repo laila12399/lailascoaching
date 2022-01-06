@@ -8,7 +8,7 @@ author: "Laila"
 
 **What’s the most crushing thing about being bullied? It’s not what most people think it is.**
 
-Blue close to victims of bullying are often not aware of the emotional burden they carry. For example, a study of over 7,000 students, found that victims of bullying reported internalising symptoms including frequent worries, sadness, nervousness, and fearfulness (Peskin et al., 2007).
+Those close to victims of bullying are often not aware of the emotional burden they carry. For example, a study of over 7,000 students, found that victims of bullying reported internalising symptoms including frequent worries, sadness, nervousness, and fearfulness (Peskin et al., 2007).
    
 In a recent cross continental study of 317,869 adolescents 30.5% experienced bullying victimisation in the past 30 days (Biswas et al., 2020).
 
