@@ -16,6 +16,9 @@ a:active, a:hover {
 header.entry-header h2 {
     color: #3897D3 !important;
     }
+li {
+        list-style: none !important; 
+    } 
 .terms-tags li {
         display:list-item !important;
         margin: 5px 5px 5px 0px;
