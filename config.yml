@@ -81,12 +81,14 @@ params:
         Content: "# I'm Laila"
 
     socialIcons:
-        - name: youtube
-          url: "https://youtube.com/"
+        #- name: youtube
+          #url: "https://youtube.com/"
         - name: twitter
-          url: "https://twitter.com/"
-        - name: instagram
-          url: "https://instagram.com/"
+          url: "https://twitter.com/LailaMarieR"
+        - name: reddit
+          url: "https://www.reddit.com/user/Laila_100"
+        #- name: instagram
+          #url: "https://instagram.com/"
        # - name: stackoverflow
        #  url: "https://stackoverflow.com"
        # - name: github
