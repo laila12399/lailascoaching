@@ -37,7 +37,7 @@ The goal is to break down the problematic belief and build up the rational new o
 2. Change Critical Focus- I will not change my self perception, I will change my perception of those showing bulling behavior.
 3. Rational Replacing Believe- I am secure in the face of adversity.
 
-#### :see_no_evil: Break Down Problematic Belief
+#### :hammer: Break Down Problematic Belief
 The aim is; to understand that one self is not the problem. The victim’s believe that they are at fault can easily be contradicted by accepting that this situation could only be a result of several factors. These include factors out of the victims control such as the layout of social groups. There is little research on how layout of social groups differently predict bullying/exclusion but in my experience rates are more likely in larger social groups. Still, bullying occurs in all kinds of social groups. Many times bullying victims are spiralled into being targeted by a larger number of  people, kicked off by few initial people picking on the victim and others joining in. This can be especially challenging. In this instance one should simply accept that this could have easily happened to others, had their situation the same factors.
 
 #### :telescope: Change Critical Focus
