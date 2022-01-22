@@ -61,9 +61,9 @@ For the perfectionist to overcome their tendencies, the goal is to become aware 
 It can be useful to understand that having these tendencies may be a heightened occurrence of an obstacle that most people face to some degree. Perfectionism might have arisen from a personal strength, such as having the courage of setting high goals for oneself and accepting responsibility for one’s own influence. Dealing with perfectionism’s counterproductive tendencies will not devalue this strength
 
 Based on current research results I suggest the following steps:
-1.		Recognize Patterns
-2.		Shift Attitude
-3.		Make it Easy: Use Force Factors
+1.	Recognize Patterns
+2.	Shift Attitude
+3.	Make it Easy: Use Force Factors
 
 ### :bulb:Recognize Patterns
 In order to overcome perfectionism, the perfectionist should be aware that they have these tendencies. They should identify areas where they are displaying perfectionistic behavior and realize how these have been counterproductive to their interests. They should think back to a time where perfectionism has inhibited efficient progress for a task they wanted to complete. Realizing how they may have practiced procrastination using ‘slightly helpful’ related activities that they excessively focused on or made excuses to postpone progress. They should attempt to in vision how they might have gone about the task completion process efficiently and thereby demonstrate to themselves the impact of this emotional turmoil.
