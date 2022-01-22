@@ -24,7 +24,7 @@ Three days ago, when you first decided to cook the soup, you told your neighbor 
 
 This is a classic example of how perfectionism plays out. A perfectionist will repeat these tendencies in various areas of their life. 
 
-For one, a worker might pushing the writing of a report to a time when they have 'had more sleep' or 'have read more', which are things which might actually be ever so slightly helpful, and they therefore use it to justify their behavior to themselves. They then spend a long period of time thinking about the wording and font. After making small careful steps of progress divided by justified procrastination periods, the worker might even have one 'fantastic' paragraph, but as the deadline nears, the worker is forced to reword something they saw on the internet and submit a sloppy report.
+For one, a worker might push the writing of a report to a time when they have 'had more sleep' or 'have read more', which are things which might actually be ever so slightly helpful, and they therefore use it to justify their behavior to themselves. They then spend a long period of time thinking about the wording and font. After making small careful steps of progress divided by justified procrastination periods, the worker might even have one 'fantastic' paragraph, but as the deadline nears, the worker is forced to reword something they saw on the internet and submit a sloppy report.
 
 In summary the perfectionist will often end up eating a ‘ready meal’ or submitting a ‘sloppy report’ although they had opportunity to create something in line with their interests. 
 
