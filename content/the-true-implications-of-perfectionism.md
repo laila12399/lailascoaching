@@ -55,7 +55,7 @@ Often these ‘slightly helpful’ activities used to postpone task completion m
 
 The fear might not necessarily be that they don’t have the ability to compete the task to meet their expectations, but rather that they aren’t able to apply themselves as they could. The underlying fear the perfectionist grapples with may not necessarily be the fear of not having the skills or talent required but the fear of not being disciplined enough to use their abilities as they would like to. Afterall, the original expectations may have arisen from a belief in their own abilities. The perfectionist may actually be afraid of not being in control of themself to the extend necessary to complete the respective task to the standard they expect.
 
-## :balance_scale:STEPS TO OVERCOME IT
+## :checkered_flag:STEPS TO OVERCOME IT
 
 For the perfectionist to overcome their tendencies, the goal is to become aware of their own patterns & their emotional causes, learn a rational replacing attitude and put it into practice with force factors.
 It can be useful to understand that having these tendencies may be a heightened occurrence of an obstacle that most people face to some degree. Perfectionism might have arisen from a personal strength, such as having the courage of setting high goals for oneself and accepting responsibility for one’s own influence. Dealing with perfectionism’s counterproductive tendencies will not devalue this strength
