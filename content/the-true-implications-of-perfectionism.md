@@ -59,7 +59,7 @@ The fear might not necessarily be that they don’t have the ability to compete 
 
 For the perfectionist to overcome their tendencies, the goal is to become aware of their own patterns & their emotional causes, learn a rational replacing attitude and put it into practice with force factors.
 
-It can be useful to understand that having these tendencies may be a heightened occurrence of an obstacle that most people face to some degree. Perfectionism might have arisen from a personal strength, such as having the courage of setting high goals for oneself and accepting responsibility for one’s own influence. Dealing with perfectionism’s counterproductive tendencies will not devalue this strengths.
+It can be useful to understand that having these tendencies may be a heightened occurrence of an obstacle that most people face to some degree. Perfectionism might have arisen from a personal strength, such as having the courage of setting high goals for oneself and accepting responsibility for one’s own influence. Dealing with perfectionism’s counterproductive tendencies will not devalue this strength.
 
 Based on current research results I suggest the following steps:
 1.	Recognize Patterns
