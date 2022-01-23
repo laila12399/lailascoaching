@@ -8,7 +8,7 @@ author: "Laila"
 
 **Can movies help bullying victims?**
 
-This study found that positive characteristics and behaviors can be enhanced through watching moving (Smithikrai, 2016). A different study found that watching movies can temporarily elevate anxiety (Mojdeh et al., 2013). A recent study found that movie watching improves empathy (Ahmadzadeh et al., 2019)
+Movie watching has been shown to enhance some characteristics and behaviors (Smithikrai, 2016), temporarily elevate anxiety (Mojdeh et al., 2013) and to improve empathy (Ahmadzadeh et al., 2019).
 
 
 ## :popcorn: The Karate Kid (1984)
