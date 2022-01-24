@@ -14,5 +14,5 @@ _build:
 {{< figure src="/files/lailascoaching1.jpeg" alt="imt" width="200px" class="about-left" >}} 
 
 --- 
-My name is Laila. I was born in Germany and live in London in the UK. I study psychology at the University of Greenwich. 
+My name is Laila. I was born in Germany and live in London, UK. I research and write about psychological phenomena as a student of Psychology.
 
