@@ -46,3 +46,5 @@ The victim’s critical attention of the situation should also be adjusted. Only
 #### :key: Rational Replacing Believe
 The new believe should imply that although this is an uncomfortable challenge of a situation, it brings the opportunity to respond with confidence in oneself in the face of difficulty. One should be aware that there are people with different intentions around one. Unless their intentions are to genuinely help one, their input should not be trusted over one’s own perception. Above all the victim should be secure in their own intuition with a self trust not affected by others, in particular those who clearly trying use one for social stunts of bullying. 
 
+### [Best Anti-Bullying Movies](/best-anti-bullying-movies/)
+
