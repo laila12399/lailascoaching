@@ -51,4 +51,4 @@ Jesse the bullied protagonist befriend Leslie the class outsider. Together, they
 
 “It's what you've done with your time, how you've chosen to spend your days, and whom you've touched this year. That, to me, is the greatest measure of success.” ― Wonder
 
-The protaginist August stands out becase of his facial abnormalities. Him and his new frind Jack bond and face the bullies together.
+The protaginist August stands out becase of his facial abnormalities. Him and his new friend Jack bond and face the bullies together.
