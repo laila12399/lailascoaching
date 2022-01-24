@@ -55,4 +55,4 @@ The protaginist August stands out becase of his facial abnormalities. Him and hi
 
 
 
-### [How to Help Bullying Victims](/how-to-help-bullying-victims/)
+[How to Help Bullying Victims](/how-to-help-bullying-victims/)
