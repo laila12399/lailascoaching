@@ -6,9 +6,9 @@
     <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
     &nbsp;»&nbsp; <a href="{{ "" | absLangURL }}topics/">Topics</a>
 
-        {{ if .Params.categories }}
-        {{ if gt (len .Params.categories) 0 }}  {{ end }} 
-        {{ range $index, $category := .Params.categories }}{{ if gt $index 0 }}, {{ end }} &nbsp;»&nbsp; <a href="{{ "categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
+        {{ if .Params.cbreadcrumbs }}
+        {{ if gt (len .Params.cbreadcrumbs) 0 }}  {{ end }} 
+        {{ range $cbreadcrumbs := .Params.cbreadcrumbs }}{{ if gt $cbreadcrumbs 0 }}, {{ end }} &nbsp;»&nbsp; <a href="{{ "" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
         {{ end }}
 
 </div>
