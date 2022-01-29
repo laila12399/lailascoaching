@@ -18,7 +18,7 @@ header.entry-header h2 {
     }
 li {
         list-style: none !important; 
-    } 
+    }           
 .terms-tags li {
         display:list-item !important;
         margin: 5px 5px 5px 0px;
@@ -44,11 +44,6 @@ div.logo a {
   span.tagline {
     font-size: 13px; 
     padding-top: 4px;
-  }
-body {
-    margin: 4em;
-  }
-  p {
   }
   p:first-child:first-letter { 
     float: left; 
