@@ -58,3 +58,6 @@ Highlight- Perfectionism linked to high believe of influence over situation:
 
 A study of 391 primary school administrators found that hight locos of control (the extent to which they believe they have influence over a situation) can be used to predict perfectionism. This suggest that high locus of control is linked to the root of perfectionism[(Kıral, 2015)](/https://www.sciencedirect.com/science/article/pii/S1877042815011891/).
 
+### [The True Implications of Perfectionism](/the-true-implications-of-perfectionism/)
+
+
