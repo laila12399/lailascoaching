@@ -49,7 +49,7 @@ It can be helpful to appreciate that perfectionism may be a very dynamic concept
 
 Some contrasting literature, for a more balanced understanding:
 
-“Perfectionism must be seen as a potent force capable of bringing either intense frustration and paralysis or intense satisfaction and creative contribution, depending on how it is channeled.” [(Schuler, 2002, p. 71)](/https://journals.sagepub.com/doi/abs/10.4219/gct-2007-490?casa_token=qDxK6KnPY68AAAAA:ShVIK2UPCfHO-C_vQ0kNkQBE0CCHh3EUIlB4HptobtUz2SnJYToQ-Bi5N26PKZX471yy09Fn_o8R/)
+“Perfectionism must be seen as a potent force capable of bringing either intense frustration and paralysis or intense satisfaction and creative contribution, depending on how it is channeled.” [(Schuler, 2002)](/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.893.824&rep=rep1&type=pdf/)
 
 
 As [(Ocampo et al., 2019)](/https://onlinelibrary.wiley.com/doi/full/10.1002/job.2400?casa_token=EcxKj7NBqawAAAAA%3AniP4SnfkoeqA2FffQN_OH1PbC3XGxAhuH82uUVSu0m0ebOsbx-_sfo1V-j7eVEcaLsWhTvnpfg4uIQ/) acknowledge, perfectionistic behaviours should be weighed against their drawbacks, perfectionism, under certain conditions or in combination with certain traits, does not always result in detrimental outcomes. As [(Baer & Shaw et al., 2017)](/https://www.researchgate.net/publication/319600056_Falling_in_Love_Again_with_What_We_Do_Academic_Craftsmanship_in_the_Management_Sciences/) asserted, “pursuing perfection is not only an obligation to our community and constituents, it is also an obligation to us. We form ourselves as we work toward perfection. If we tolerate mediocrity, we deny ourselves the opportunity to develop fully”.
