@@ -9,5 +9,4 @@ hidden: true
 ---
 
 * [The True Implications of Perfectionism](/the-true-implications-of-perfectionism/)
-
 * [Studies Exposing Perfectionism](/studies-exposing-perfectionism/)
