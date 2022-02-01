@@ -43,7 +43,7 @@ A study of 87 professional performers found that those with higher scores of per
 
 ## :white_square_button:Contrasting Literature
 
-While appreciating these findings as possible effects of perfectionism, one should also consider that the same roots that cause perfectionism can also be the roots of patterns that have positive impacts on achievement and efficiency.
+While appreciating these findings as possible effects of perfectionism, one should also consider that the same roots that cause perfectionism can also be the roots of patterns that have positive effects.
 
 It can be helpful to appreciate that perfectionism may be a very dynamic concept and being classified as a perfectionist clearly does not determine your achievements in a positive nor negative manner.
 
