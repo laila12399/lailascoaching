@@ -9,7 +9,7 @@ author: "Laila"
 
 **Generally, popular associations with perfectionisms are inconsistent with the true effects indicated by research.**
 
-It has often been an ‘in-joke’ that an interviewer asks a candidate ‘do you have any weaknesses’ and the interviewee responds ‘yes, I’m a perfectionist’. The point being that the interviewee thinks that being a perfectionist is an admirable trait. In actuality, perfectionism shows to have quite contrasting effects.
+It has often been an ‘in-joke’ that an interviewer asks a candidate ‘do you have any weaknesses’ and the interviewee responds ‘Only that I’m a perfectionist’. The point being that the interviewee thinks that being a perfectionist is an admirable trait. In actuality, perfectionism shows to have quite contrasting effects.
 
 Here are some research results that demonstrate impacts of perfectionistic behaviour.
 
