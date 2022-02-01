@@ -1,0 +1,95 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+/* a, button, body, h1, h2, h3, h4, h5, h6 {
+    color: #3897D3 !important;
+    } */
+
+a, a::before, a::after {
+        color: #3897D3 !important;
+        box-shadow: 0 0 !important;
+        }
+a:active, a:hover {
+            color: #2C78A5 !important;     
+        }
+header.entry-header h2 {
+    color: #3897D3 !important;
+    }
+h2 a, h2 a::before, h2 a::after {
+  box-shadow: 0 0 !important;
+}
+h3 a, h3 a::before, h3 a::after {
+  box-shadow: 0 0 !important;
+}
+h3 a:link, h3 a:visited, h3 a:active {
+  box-shadow: 0 0 !important;
+}
+h4 a, h4 a::before, h4 a::after {
+  box-shadow: 0 0 !important;
+}
+li a, li a::before, li a::after {
+  box-shadow: 0 0 !important;
+}
+li {
+        list-style: none !important; 
+    }           
+.terms-tags li {
+        display:list-item !important;
+        margin: 5px 5px 5px 0px;
+        font-size: 19px !important;
+        font-weight: bolder;
+        list-style: none !important;
+}
+.terms-tags a {
+    display: block;
+    padding: 0 !important;
+    background: none !important;
+    /* border-radius: 6px; */
+    transition: transform .1s;
+    }
+/* images if fixed with / not full width: */
+.about-left {
+        float: left;
+        padding: 0 20px 20px 0;
+}
+div.logo a {
+    padding-right: 8px;
+  }
+  span.tagline {
+    font-size: 13px; 
+    padding-top: 4px;
+  }
+  .author-profile-image {
+  flex: 0 0 40px; 
+  margin: 0;
+  width: 40px;
+  height: 40px;
+  border: none;
+  margin-right: 5px;
+}
+.author-profile-image img {
+  display: inline-table; 
+  border-radius: 50%;
+  float: left !important; 
+  margin-top: 0px;
+  position: relative; 
+  /* pointer-events:none */
+}
+div.authcardtxt {
+  text-align: left;
+}
+  p:first-child:first-letter { 
+    float: left; 
+    color: #3897D3; 
+    font-size: 2em; 
+    line-height: 0.85em; 
+    padding-right: 0.1em; 
+  }
+div.post-content ul {
+    padding-left: 0 !important;
+}
+div.post-content ul li {
+    list-style: none !important;
+}
