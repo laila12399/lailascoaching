@@ -23,7 +23,7 @@ A 2005 study of 28 students suggests that perfectionists collect unimportant inf
 A 2011 study where participants were assessed on their ability to proofread, showed that perfectionists were less efficient (wasted more time) than non- perfectionists. Although the perfectionists spend more time on the task, they showed no significant improvement in performance [(Stoeber, 2011)](/https://www.sciencedirect.com/science/article/pii/S0191886910005179?casa_token=0rX6cjAi8TMAAAAA:LFL556IZk8sAAwmTLb_w5GgiCIZS9sIhsiJDl_fRy4iNdSf8LWoUQEI3X_Rr-goL-RlncvvjEw/).
 
 
-## :arrows_counterclockwise:Connected to prostration
+## :arrows_counterclockwise:Connected to Procrastination
 
 This study of 393 students found that students with perfectionism were significantly more likely to engage in various types of procrastination. 
 Somewhat unrelated but nevertheless interesting, this study also found that students who were organised and self-determined were less likely to procrastinate [(Burnam et al., 2014)](/https://www.sciencedirect.com/science/article/pii/S1041608014001885?casa_token=x7vzYmljIA4AAAAA:Dfz-I87TBKuthgQVpVXIVuEny88bNnvx2niw6qv7mgNj48mSDdzac9uIZJPgiCNW3h6w0u-mwQ/).
@@ -58,6 +58,4 @@ Highlight- Perfectionism linked to high believe of influence over situation:
 
 A study of 391 primary school administrators found that hight locos of control (the extent to which they believe they have influence over a situation) can be used to predict perfectionism. This suggest that high locus of control is linked to the root of perfectionism[(Kıral, 2015)](/https://www.sciencedirect.com/science/article/pii/S1877042815011891/).
 
-### [The True Implications of Perfectionism](/the-true-implications-of-perfectionism/)
-
-
+[The True Implications of Perfectionism](/the-true-implications-of-perfectionism/)
