@@ -49,13 +49,12 @@ It can be helpful to appreciate that perfectionism may be a very dynamic concept
 
 Some contrasting literature, for a more balanced understanding:
 
-“Perfectionism must be seen as a potent force capable of bringing either intense frustration and paralysis or intense satisfaction and creative contribution, depending on how it is channeled.” [(Schuler, 2002)](/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.893.824&rep=rep1&type=pdf/)
-
-
 As [(Ocampo et al., 2019)](/https://onlinelibrary.wiley.com/doi/full/10.1002/job.2400?casa_token=EcxKj7NBqawAAAAA%3AniP4SnfkoeqA2FffQN_OH1PbC3XGxAhuH82uUVSu0m0ebOsbx-_sfo1V-j7eVEcaLsWhTvnpfg4uIQ/) acknowledge, perfectionistic behaviours should be weighed against their drawbacks, perfectionism, under certain conditions or in combination with certain traits, does not always result in detrimental outcomes. As [(Baer & Shaw et al., 2017)](/https://www.researchgate.net/publication/319600056_Falling_in_Love_Again_with_What_We_Do_Academic_Craftsmanship_in_the_Management_Sciences/) asserted, “pursuing perfection is not only an obligation to our community and constituents, it is also an obligation to us. We form ourselves as we work toward perfection. If we tolerate mediocrity, we deny ourselves the opportunity to develop fully”.
 
 Highlight- Perfectionism linked to high believe of influence over situation:
 
 A study of 391 primary school administrators found that hight locos of control (the extent to which they believe they have influence over a situation) can be used to predict perfectionism. This suggest that high locus of control is linked to the root of perfectionism[(Kıral, 2015)](/https://www.sciencedirect.com/science/article/pii/S1877042815011891/).
+
+“Perfectionism must be seen as a potent force capable of bringing either intense frustration and paralysis or intense satisfaction and creative contribution, depending on how it is channeled.” [(Schuler, 2002)](/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.893.824&rep=rep1&type=pdf/)
 
 [The True Implications of Perfectionism](/the-true-implications-of-perfectionism/)
