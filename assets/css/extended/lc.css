@@ -32,6 +32,12 @@ h4 a, h4 a::before, h4 a::after {
 li a, li a::before, li a::after {
   box-shadow: 0 0 !important;
 }
+a.anchor, a.anchor::before, a.anchor::after {
+  color: transparent !important; 
+}
+a.anchor:hover, a.anchor:active {
+  color: transparent !important;   
+}
 li {
         list-style: none !important; 
     }           
