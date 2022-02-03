@@ -7,7 +7,7 @@ cbreadcrumbs: ["Perfectionism"]
 author: "Laila"
 ---
 
-**While perfectionism can lead to frustration, the intention of self-improvement can lead to a healthier as well as more productive state of being.**
+**While perfectionism can lead to termoils, self-improvement can lead to a healthier more productive state of being.**
 
  Brené Brown explores this difference.
 
@@ -36,7 +36,9 @@ In her book [The Gifts of Imperfection]( https://www.amazon.co.uk/dp/B00BS03LL6/
 When feeling exhausted or anxious, in her In her book [The Gifts of Imperfection]( https://www.amazon.co.uk/dp/B00BS03LL6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), Brené Brown  she recommends to use this DIG approach:
 
 Deliberate – Directional is your thoughts and actions.
+
 Inspired – To feel like yourself, get yourself in the correct emotional and mental state.
+
 Going – Take action, whether it's to sleep more or work more.
 
 Reference: [The Gifts of Imperfection]( https://www.amazon.co.uk/dp/B00BS03LL6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Brené Brown  
