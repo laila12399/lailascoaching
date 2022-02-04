@@ -12,4 +12,4 @@ hidden: true
 
 * [The True Implications of Perfectionism](/the-true-implications-of-perfectionism/)
 * [Studies Exposing Perfectionism](/studies-exposing-perfectionism/)
-* [Perfectionism VS Healthy Striving - According to Brené Brown](/perfectionism_vs_healthy_striving_according_to_brene-brown/)
+* [Perfectionism VS Healthy Striving - According to Brené Brown](/perfectionism-vs-healthy-striving-according-to-brene-brown/)
