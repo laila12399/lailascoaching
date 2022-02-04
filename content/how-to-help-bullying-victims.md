@@ -9,7 +9,7 @@ author: "Laila"
 
 **What’s the most crushing thing about being bullied? It’s not what most people think it is.**
 
-Blue close to victims of bullying are often not aware of the emotional burden they carry. For example, a study of over 7,000 students, found that victims of bullying reported internalising symptoms including frequent worries, sadness, nervousness, and fearfulness (Peskin et al., 2007).
+Those close to victims of bullying are often not aware of the emotional burden they carry. For example, a study of over 7,000 students, found that victims of bullying reported internalising symptoms including frequent worries, sadness, nervousness, and fearfulness (Peskin et al., 2007).
    
 In a recent cross continental study of 317,869 adolescents 30.5% experienced bullying victimisation in the past 30 days (Biswas et al., 2020).
 
@@ -52,7 +52,7 @@ The goal is to break down the problematic belief and build up the rational new o
 2. :arrow_right: Change Critical Focus- I will not change my self perception, I will change my perception of those showing bulling behavior.
 3. :arrow_right: Rational Replacing Believe- I am secure in the face of adversity.
 
-#### :see_no_evil: Break Down Problematic Belief
+#### :hammer: Break Down Problematic Belief
 The aim is; to understand that one self is not the problem. The victim’s believe that they are at fault can easily be contradicted by accepting that this situation could only be a result of several factors. 
 
 These include factors out of the victims control such as the layout of social groups. There is little research on how layout of social groups differently predict bullying/exclusion but in my experience rates are more likely in larger social groups. 
