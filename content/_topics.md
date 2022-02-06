@@ -13,8 +13,10 @@ hidden: true
 * [Perfectionism](/perfectionism/)
 1. [The True Implications of Perfectionism](/the-true-implications-of-perfectionism/) 
 2. [Studies Exposing Perfectionism](/studies-exposing-perfectionism/)
+3. [Perfectionism vs Healthy Striving- According to Brené Brown](/perfectionism-vs-healthy-striving-according-to-brene-brown/)
 
 * [Bullying](/bullying/)
 1. [How to Help Bullying Victims](/how-to-help-bullying-victims/)
 2. [Best Anti-Bullying Movies](/best-anti-bullying-movies/)
+3. [How to Deal with Bullying at Work](/how-to-deal-with-bullying-at-work/)
 
