@@ -17,7 +17,7 @@ Earnshaw and Cooper (1996) reported that up to a third of UK stress-related empl
 
 ## :microscope: What’s different about it
 
-Workplace bullying can be more difficult to spot or reduce as it is unique in its subtlety, with it manifesting in indirect ways, for example using innuendos.
+Workplace bullying can be more difficult to spot or reduce as it is unique in its subtlety, with it manifesting in indirect ways, for example using innuendos (indirect comment or hint).
 
 A study with 1,137 participants found that those who had not yet been bullied predicted that their reaction to being bullied at the workplace would be significantly more assertive than the reaction of participants who had been bullied actually was (Rayner, 1998).
 
