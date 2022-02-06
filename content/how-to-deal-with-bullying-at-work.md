@@ -23,7 +23,7 @@ A study with 1,137 participants found that those who had not yet been bullied pr
 
 One reason for this could be that workplace bullying is unique in the way it plays out in contrast to how a classic bullying scenario is often represented in people’s minds.
 
-Out of reported workplace bullying instances only 8 % were physical bullying instanced in in a study by (Einarssen et al., 1994), with the most common types being verbal and indirect.
+Out of reported workplace bullying instances only 8 % were physical bullying instances in in a study by (Einarssen et al., 1994), with the most common types being verbal and indirect.
 
 As argued by (Rayner, Hoel, 1998), workplace bullying takes the shape of a wide range of subtle tactics. They group workplace bullying into the following categories:
 
@@ -52,7 +52,7 @@ A study with 5,288 participants compared different types of leadership styles an
 
 Instead of overcompensating into either an overly offensive or overly agreeable direction, react secure.
 
-### :syringe: Manipulation
+### :syringe: Reaction to Manipulation
 
 For example, when confronted with someone you suspect may be trying to bully you into taking on an extra workload, reacting overly offensive (by e.g. making them accusations), can make you look insecure and is unlikely to prevent future bullying. If anything, this can increase bullying or result in you being socially excluded. 
 
@@ -66,15 +66,15 @@ In contrast, if you were to engage in a solution focused narrative and weigh out
 
 When confronted with workplace bullying involving pressuring, exploitation or destabilisation use the SEW acronym:
 
-•	**Secure** - React secure in your intuition, not overcompensating into either an agreeable nor an offensive direction, by immediately accepting or rejecting other’s suggestion.
+•	Secure - React secure in your intuition, not overcompensating into either an agreeable nor an offensive direction, by immediately accepting or rejecting other’s suggestion.
 
-•	**Evaluating**  – Engage in a solution focused discussion in a rational evaluative manner.
-
-
-•	**Whole situation**  – Retain a focus on the whole situation and everyone involved, instead of just yourself, showing that you are aware of and consider the broader factors and are unsuited for manipulation.
+•	Evaluating – Engage in a solution focused discussion in a rational evaluative manner.
 
 
-### :right_anger_bubble: Petty Humiliation
+•	Whole situation – Retain a focus on the whole situation and everyone involved, instead of just yourself, showing that you are aware of and consider the broader factors and are unsuited for manipulation.
+
+
+### :right_anger_bubble: Reaction to Petty Humiliation
 
 In the case of petty humiliation attacks, the approach, is also focused on internal security but nevertheless distinct. 
 
@@ -88,12 +88,12 @@ In contrast, if you were to react with a calm unaffected posterior, continue doi
 
 When confronted with workplace bullying involving humiliation, name calling and petty attacks use the SUB acronym:
 
-•	**Secure** - React secure in yourself by not overcompensating into either an agreeable nor an offensive direction, by communicating that you are offended or nervous. 
+•	Secure- React secure in yourself by not overcompensating into either an agreeable nor an offensive direction, by communicating that you are offended or nervous. 
 
-•	**Unaffected** - Keep a stable unaffected posterior, showing that you are not easily affected by other’s disapproval.
+•	Unaffected- Keep a stable unaffected posterior, showing that you are not easily affected by other’s disapproval.
 
 
-•	**Brush off**  - Brush them off with a calm playful reciprocating comment.
+•	Brush off - Brush them off with a calm playful reciprocating comment.
 
 
 **In general, retain a security in your own judgement. Trust your personal insight over that of others especially if the other person likely does not have your interests at heart.**
