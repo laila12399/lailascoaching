@@ -27,15 +27,15 @@ Out of reported workplace bullying instances only 8 % were physical bullying ins
 
 As argued by (Rayner, Hoel, 1998), workplace bullying takes the shape of a wide range of subtle tactics. They group workplace bullying into the following categories:
 
-•	threat to personal status (e.g. professional humiliation)
+•	**threat to personal status** (e.g. professional humiliation)
 
-•	thread to personal standing (e.g. name- calling)
+•	**thread to personal standing** (e.g. name- calling)
 
-•	 isolation (e.g. social isolation)
+•	 **isolation** (e.g. social isolation)
 
-•	overwork (e.g. unnecessary pressure) 
+•	**overwork** (e.g. unnecessary pressure) 
 
-•	destabilisation (e.g. failure to give credit).
+•	**destabilisation** (e.g. failure to give credit).
 
 Often workplace bullying takes the shape of allusive remarks or hints, with suggestive or disparaging undertones. This oblique indirect technique of bullying can be especially challenging to manage.
 
