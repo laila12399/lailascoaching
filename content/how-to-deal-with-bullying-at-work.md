@@ -17,7 +17,7 @@ Earnshaw and Cooper (1996) reported that up to a third of UK stress-related empl
 
 ## :microscope: What’s different about it
 
-Workplace bullying can be more difficult to spot or reduce as it is unique in its subtlety, with it manifesting in indirect ways, for example using innuendos (indirect comment or hint).
+Workplace bullying can be more difficult to spot or reduce as it is unique in its subtlety, with it manifesting in indirect ways, for example using innuendos (indirect comments or hints).
 
 A study with 1,137 participants found that those who had not yet been bullied predicted that their reaction to being bullied at the workplace would be significantly more assertive than the reaction of participants who had been bullied actually was (Rayner, 1998).
 
@@ -39,7 +39,7 @@ As argued by (Rayner, Hoel, 1998), workplace bullying takes the shape of a wide 
 
 Often workplace bullying takes the shape of allusive remarks or hints, with suggestive or disparaging undertones. This oblique indirect technique of bullying can be especially challenging to manage.
 
-It may be subtle, less obvious- almost to the extend where mentioning it or complaining about it could seem ‘ridiculous’.
+It may be cunning and less obvious- almost to the extend where mentioning it or complaining about it could seem ‘ridiculous’.
 
 ## :satellite: Can it be predicted?
 
@@ -64,7 +64,7 @@ On the other hand, if you were to react overly agreeable and very suggestable, p
 
 In contrast, if you were to engage in a solution focused narrative and weigh out both your and their suggestions by pointing out what is the fairest or most efficient to everyone involved, makes you an active contender rather than a passive follower subject to other’s handling.
 
- In general, focusing on the whole situation and everyone involved rather than clearly just looking out for your own interests can represent you as a more trustworthy, reliable, aware and therefore a bad target for manipulation.
+ In general, focusing on the whole situation and everyone involved rather than clearly just looking out for your own interests can represent you as more trustworthy, reliable, aware of broader factors and therefore a bad target for manipulation.
 
  #### :scroll: SEW acronym
 
@@ -86,21 +86,21 @@ For example, when confronted with a co-worker publicly ridiculing your outfit, r
 
 On the other hand, if you were to react overly agreeable and accommodating by making an excuse for the outfit and thereby inadvertently agreeing with the bully’s judgement of it can make you seem nervous and easily shaken, making it seem as though you have little trust in your personal judgment.
 
-In contrast, if you were to react with a calm unaffected posterior, continue doing what you were doing, maybe even seem slightly amused and brush their comment off with a reciprocating comment playfully mocking something of theirs, presents you as secure, stable and not easily affected by other’s disapproval.
+In contrast, if you were to react with a calm unaffected front, continue doing what you were doing, maybe even seem slightly amused and brush their comment off with a reciprocating comment playfully mocking something of theirs, presents you as secure, stable and not easily affected by other’s disapproval.
 
 #### :scroll: SUB acronym
 
 When confronted with workplace bullying involving humiliation, name calling and petty attacks use the SUB acronym:
 
-•	**Secure**- React secure in yourself by not overcompensating into either an agreeable nor an offensive direction, by communicating that you are offended or nervous. 
+•	**Secure**- React secure in yourself by not overcompensating into either an agreeable nor an offensive direction and thereby communicating that you are offended or nervous. 
 
-•	**Unaffected**- Keep a stable unaffected posterior, showing that you are not easily affected by other’s disapproval.
+•	**Unaffected**- Keep a stable unaffected front, showing that you are not easily affected by other’s disapproval.
 
 
 •	**Brush off** - Brush them off with a calm playful reciprocating comment.
 
 
-**In general, retain a security in your own judgement. Trust your personal insight over that of others especially if the other person likely does not have your interests at heart.**
+**In general, retain a security in your own judgement. Trust your personal insight over that of others who clearlly do not have your interests at heart.**
 
 
 [How to Help Bullying Victims](/how-to-help-bullying-victims/)
