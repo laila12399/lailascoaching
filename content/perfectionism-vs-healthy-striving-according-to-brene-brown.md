@@ -44,7 +44,4 @@ Going – Take action, whether it's to sleep more or work more.
 
 Reference: [The Gifts of Imperfection]( https://www.amazon.co.uk/dp/B00BS03LL6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Brené Brown  
 
-[Audio file](/audio.html/)
-
-
 [The True Implications of Perfectionism](/the-true-implications-of-perfectionism/)
