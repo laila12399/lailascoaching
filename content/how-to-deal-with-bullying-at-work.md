@@ -100,7 +100,7 @@ When confronted with workplace bullying involving humiliation, name calling and 
 •	**Brush off** - Brush them off with a calm playful reciprocating comment.
 
 
-**In general, retain a security in your own judgement. Trust your personal insight over that of others who clearlly do not have your interests at heart.**
+**In general, retain a security in your own judgement. Trust your personal insight over that of others who clearly do not have your interests at heart.**
 
 
 [How to Help Bullying Victims](/how-to-help-bullying-victims/)
