@@ -62,7 +62,7 @@ For example, when confronted with someone you suspect may be trying to bully you
 
 On the other hand, if you were to react overly agreeable and very suggestable, possibly with the internal narrative of trying to avoid conflict, you will likely be exploited by this person and encourage others to take advantage of you as well.
 
-In contrast, if you were to engage in a solution focused narrative and weigh out both your and their suggestions by pointing out what is the fairest or most efficient to everyone involved, makes you an active contender rather than a passive follower subject to other’s handling.
+In contrast, engaging in a solution focused narrative and weigh out both your and their suggestions by pointing out what is the fairest or most efficient to everyone involved, makes you an active contender rather than a passive follower subject to other’s handling.
 
  In general, focusing on the whole situation and everyone involved rather than clearly just looking out for your own interests can represent you as more trustworthy, reliable, aware of broader factors and therefore a bad target for manipulation.
 
@@ -104,5 +104,3 @@ When confronted with workplace bullying involving humiliation, name calling and 
 
 
 [How to Help Bullying Victims](/how-to-help-bullying-victims/)
-
-
