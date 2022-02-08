@@ -89,6 +89,8 @@ params:
           url: "https://twitter.com/LailaMarieR"
         - name: reddit
           url: "https://www.reddit.com/user/Laila_100"
+        - name: pinterest
+          url: "https://www.pinterest.co.uk/lailascoaching/_created/"
        # - name: instagram
        #  url: "https://instagram.com/"
        # - name: stackoverflow
