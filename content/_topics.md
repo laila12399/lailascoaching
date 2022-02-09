@@ -16,7 +16,7 @@ hidden: true
 3. [Perfectionism vs Healthy Striving- According to Brené Brown](/perfectionism-vs-healthy-striving-according-to-brene-brown/)
 
 * [Bullying](/bullying/)
-1. [How to Help Bullying Victims](/how-to-help-bullying-victims/)
+1. [How to Overcome Bullying Trauma](/how-to-overcome-bullying-trauma/)
 2. [Best Anti-Bullying Movies](/best-anti-bullying-movies/)
 3. [How to Deal with Bullying at Work](/how-to-deal-with-bullying-at-work/)
 
