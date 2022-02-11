@@ -103,4 +103,4 @@ When confronted with workplace bullying involving humiliation, name calling and 
 **In general, retain a security in your own judgement. Trust your personal insight over that of others who clearly do not have your interests at heart.**
 
 
-[How to Help Bullying Victims](/how-to-help-bullying-victims/)
+[How to Overcome Bullying Trauma](/how-to-overcome-bullying-trauma/) 
