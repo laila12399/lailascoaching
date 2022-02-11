@@ -54,4 +54,4 @@ Jesse the bullied protagonist befriend Leslie the class outsider. Together, they
 
 The protaginist August stands out becase of his facial abnormalities. Him and his new frind Jack bond and face the bullies together.
 
-[How to Help Bullying Victims](/how-to-help-bullying-victims/)
+[How to Overcome Bullying Trauma](/how-to-overcome-bullying-trauma/) 
