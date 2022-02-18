@@ -25,9 +25,12 @@ School bulling victimisation has been linked to various consequences. Here is so
 
 Many of the consequences of school bulling victimisation are not confined to the momentary bulling experience but have more long-lasting impacts. For example:
 
-•	generally **higher Anxiety** (Baldry et al., 2004) 
+•	generally **higher Anxiety** (Baldry et al., 2004)
+
 •	increasing levels of **stress** (Choii, 2018)
-•	**low self-esteem** (O'Moore & Kirkham, 2001; Schäfer et al., 2010) 
+
+•	**low self-esteem** (O'Moore & Kirkham, 2001; Schäfer et al., 2010)
+
 •	**withdrawn behaviours** (Baldry et al., 2004)
 
 A study with students who had experienced school bulling for a minimum of one year found that bullying victims **internalised the socially constructed ‘victim image’** and the way they thought classmates saw them, even acting upon this image (Thornberg et al., 2011). 
