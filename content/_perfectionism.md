@@ -10,6 +10,6 @@ showtoc: false
 hidden: true
 ---
 
-* [The True Implications of Perfectionism](/the-true-implications-of-perfectionism/)
+* [How to 'Cure' Perfectionism](/how-to-cure-perfectionism/)
 * [Studies Exposing Perfectionism](/studies-exposing-perfectionism/)
 * [Perfectionism vs Healthy Striving - According to Brené Brown](/perfectionism-vs-healthy-striving-according-to-brene-brown/)
