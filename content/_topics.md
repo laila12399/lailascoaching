@@ -11,7 +11,7 @@ hidden: true
 ---
 
 * [Perfectionism](/perfectionism/)
-1. [The True Implications of Perfectionism](/the-true-implications-of-perfectionism/) 
+1. [How to 'Cure' Perfectionism](/how-to-cure-perfectionism/)
 2. [Studies Exposing Perfectionism](/studies-exposing-perfectionism/)
 3. [Perfectionism vs Healthy Striving- According to Brené Brown](/perfectionism-vs-healthy-striving-according-to-brene-brown/)
 
