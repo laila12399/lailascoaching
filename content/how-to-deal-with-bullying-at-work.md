@@ -58,7 +58,7 @@ Instead of overcompensating into either an overly offensive or overly agreeable 
 
 ### :syringe: Reaction to Manipulation
 
-For example, when confronted with someone you suspect may be trying to bully you into taking on an extra workload, reacting overly offensive (by e.g. making them accusations), can make you look insecure and is unlikely to prevent future bullying. If anything, this can increase bullying or result in you being socially excluded. 
+For example, when confronted with someone you suspect may be trying to bully you into taking on an extra workload, reacting overly offensive (by e.g., making them accusations), can make you look insecure and is unlikely to prevent future bullying. If anything, this can increase bullying or result in you being socially excluded. 
 
 On the other hand, if you were to react overly agreeable and very suggestable, possibly with the internal narrative of trying to avoid conflict, you will likely be exploited by this person and encourage others to take advantage of you as well.
 
@@ -66,41 +66,42 @@ In contrast, engaging in a solution focused narrative and weigh out both your an
 
  In general, focusing on the whole situation and everyone involved rather than clearly just looking out for your own interests can represent you as more trustworthy, reliable, aware of broader factors and therefore a bad target for manipulation.
 
- #### :scroll: SEW acronym
+ #### :scroll: SEW Acronym
 
 When confronted with workplace bullying involving pressuring, exploitation or destabilisation use the SEW acronym:
 
-•	**Secure** - React secure in your intuition, not overcompensating into either an agreeable nor an offensive direction, by immediately accepting or rejecting other’s suggestion.
+•	**Secure-** React secure in your intuition, not overcompensating into either an agreeable nor an offensive direction, by immediately accepting or rejecting other’s suggestion.
 
-•	**Evaluating** – Engage in a solution focused discussion in a rational evaluative manner.
+•	**Evaluating-** Engage in a solution focused discussion in a rational evaluative manner.
 
 
-•	**Whole situation** – Retain a focus on the whole situation and everyone involved, instead of just yourself, showing that you are aware of and consider the broader factors and are unsuited for manipulation.
+•	**Whole situation-** Retain a focus on the whole situation and everyone involved, instead of just yourself, showing that you are aware of and consider the broader factors and are unsuited for manipulation.
 
 
 ### :right_anger_bubble: Reaction to Petty Humiliation
 
 In the case of petty humiliation attacks, the approach, is also focused on internal security but nevertheless distinct. 
 
-For example, when confronted with a co-worker publicly ridiculing your outfit, reacting overly offensive (by e.g. showing that you are offended and pointing out how out of line they are) can make you look insecure and inexperienced in dealing with conflict.
+For example, when confronted with a co-worker publicly ridiculing your outfit, reacting overly offensive (by e.g., showing that you are offended and pointing out how out of line they are) can make you look insecure and inexperienced in dealing with conflict.
 
 On the other hand, if you were to react overly agreeable and accommodating by making an excuse for the outfit and thereby inadvertently agreeing with the bully’s judgement of it can make you seem nervous and easily shaken, making it seem as though you have little trust in your personal judgment.
 
 In contrast, if you were to react with a calm unaffected front, continue doing what you were doing, maybe even seem slightly amused and brush their comment off with a reciprocating comment playfully mocking something of theirs, presents you as secure, stable and not easily affected by other’s disapproval.
 
-#### :scroll: SUB acronym
+#### :scroll: SUB Acronym
 
 When confronted with workplace bullying involving humiliation, name calling and petty attacks use the SUB acronym:
 
-•	**Secure**- React secure in yourself by not overcompensating into either an agreeable nor an offensive direction and thereby communicating that you are offended or nervous. 
+•	**Secure-** React secure in yourself by not overcompensating into either an agreeable nor an offensive direction and thereby communicating that you are offended or nervous. 
 
-•	**Unaffected**- Keep a stable unaffected front, showing that you are not easily affected by other’s disapproval.
+•	**Unaffected-** Keep a stable unaffected front, showing that you are not easily affected by other’s disapproval.
 
 
-•	**Brush off** - Brush them off with a calm playful reciprocating comment.
+•	**Brush off-** Brush them off with a calm playful reciprocating comment.
 
 
 **In general, retain a security in your own judgement. Trust your personal insight over that of others who clearly do not have your interests at heart.**
 
 
-[How to Overcome Bullying Trauma](/how-to-overcome-bullying-trauma/) 
+[How to Help Bullying Victims](/how-to-help-bullying-victims/)
+
