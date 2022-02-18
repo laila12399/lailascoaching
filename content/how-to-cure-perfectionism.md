@@ -1,5 +1,5 @@
 ---
-title: "The True Implications of Perfectionism"
+title: "How to 'Cure' Perfectionism]"
 date: 2022-01-22T22:20:28+01:00
 lastmod: 2022-01-22T22:20:28+01:00
 draft: false
