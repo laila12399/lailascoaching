@@ -145,7 +145,7 @@ When confronted with school bullying involving indirect remarks, rumour or reput
 
 **Pursue connections-** Focus on engaging with existing connections, reinforcing your social position.
 
-## More Solutions
+## :flashlight: More Solutions
 
 These external reactions discussed above may be especially helpful, for initial bulling interactions, however, they are unlikely to transform a victim’s situation entirely if they are already far down the spiral and they have already suffered significant social repercussions.
 
