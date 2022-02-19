@@ -57,4 +57,4 @@ A study of 391 primary school administrators found that hight locos of control (
 
 “Perfectionism must be seen as a potent force capable of bringing either intense frustration and paralysis or intense satisfaction and creative contribution, depending on how it is channeled.” [(Schuler, 2002)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.893.824&rep=rep1&type=pdf/)
 
-[The True Implications of Perfectionism](/the-true-implications-of-perfectionism/)
+[How to 'Cure' Perfectionism](/how-to-cure-perfectionism/)
