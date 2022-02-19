@@ -7,7 +7,7 @@ cbreadcrumbs: ["Bullying"]
 author: "Laila"
 ---
 
-**Popular advice on how to deal with bullies at school is not understanding of how most bullying situations actually play out and is in some cases even counterproductive.**
+**Popular advice on school bullying is inapropriate for real situatuons and is sometimes even counterproductive.**
 
 ## :eye: How Much does School bullying Happen?
 
