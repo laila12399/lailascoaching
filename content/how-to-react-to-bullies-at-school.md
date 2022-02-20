@@ -114,7 +114,7 @@ When confronted with school bullying involving direct attacks or name-calling us
 
 **Security-** Instead of being fearfully offensive or nervously agreeable, trust in yourself over others who are clearly trying to use you for their gain.
 
-**Outward Unfazed-** Undisturbed from what you were doing, retain a calm, unthreaded unfazed front.
+**Outward Unfazed- ** Undisturbed from what you were doing, retain a calm, unthreaded unfazed front.
 
 **Defect-** Defect the bystander’s critical attention back to the bully and questioning the bully’s actions rather than yourself.
 
@@ -162,50 +162,50 @@ This guide [How to Overcome Bullying Trauma](/how-to-overcome-bullying-trauma/) 
 References 
 ---
 
-[^1]:1- (Ashrafi et al, 2020) https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-020-04989-4.   Jump back up to sentence in which this source was referenced:
+[^1]: (Ashrafi et al, 2020) https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-020-04989-4.   Jump back up to sentence in which this source was referenced:
 
-[^2]:2- (Hicks et al., 2018) https://www.tandfonline.com/doi/full/10.1080/23727810.2017.1422645?casa_token=gZc-BapjWVAAAAAA%3ANknxrqB2v25C5sniZchRiH9Qi-cxbGRGQU5rDtLqunJH0_Zc7rT7mEQJTgklzPAnyGRKq0cYI5w,   Jump back up to sentence in which this source was referenced:
+[^2]: (Hicks et al., 2018) https://www.tandfonline.com/doi/full/10.1080/23727810.2017.1422645?casa_token=gZc-BapjWVAAAAAA%3ANknxrqB2v25C5sniZchRiH9Qi-cxbGRGQU5rDtLqunJH0_Zc7rT7mEQJTgklzPAnyGRKq0cYI5w,   Jump back up to sentence in which this source was referenced:
 
-[^3]:3- (shuqing et al., 2020) https://journals.sagepub.com/doi/full/10.1177/0886260520907360?casa_token=H8oyWLrTAeMAAAAA%3AA3qA9Q2HfACxGwYAzp29kh0IxHomFK7Kppia-z-j6k--4S3qgHe_SPYZLhM63edzv5Q0cZTuirc   Jump back up to sentence in which this source was referenced:
+[^3]: (shuqing et al., 2020) https://journals.sagepub.com/doi/full/10.1177/0886260520907360?casa_token=H8oyWLrTAeMAAAAA%3AA3qA9Q2HfACxGwYAzp29kh0IxHomFK7Kppia-z-j6k--4S3qgHe_SPYZLhM63edzv5Q0cZTuirc   Jump back up to sentence in which this source was referenced:
 
-[^4]:4- (Baldry, 2004 ) https://onlinelibrary.wiley.com/doi/abs/10.1002/ab.20043?casa_token=1qIFLesUk54AAAAA:rIFbT7k87mgA3z5C6_uqjuSh3h8sn4PkEx8dXYkaYLQUhCeKQodsn-WMP5lvFidTJqR97hmInKwm   Jump back up to sentence in which this source was referenced:
+[^4]: (Baldry, 2004 ) https://onlinelibrary.wiley.com/doi/abs/10.1002/ab.20043?casa_token=1qIFLesUk54AAAAA:rIFbT7k87mgA3z5C6_uqjuSh3h8sn4PkEx8dXYkaYLQUhCeKQodsn-WMP5lvFidTJqR97hmInKwm   Jump back up to sentence in which this source was referenced:
 
-[^5]:5- (Choii, 2018) https://www.oecd-ilibrary.org/content/paper/41576fb2-en
+[^5]: (Choii, 2018) https://www.oecd-ilibrary.org/content/paper/41576fb2-en
    Jump back up to sentence in which this source was referenced:
 
-[^6]:6- (O'Moore & Kirkham, 2001) https://www.tandfonline.com/doi/full/10.1080/15388220903479602?casa_token=IZu0b2VCFLcAAAAA%3AjGTMbMVrlbXNWKFgvqcS7a9c9ZNsQJhO1KoFMyOMy3PR7W2AfkLOgY3oYWfFbEaUiMOTR3imEL4r#   Jump back up to sentence in which this source was referenced:
+[^6]: (O'Moore & Kirkham, 2001) https://www.tandfonline.com/doi/full/10.1080/15388220903479602?casa_token=IZu0b2VCFLcAAAAA%3AjGTMbMVrlbXNWKFgvqcS7a9c9ZNsQJhO1KoFMyOMy3PR7W2AfkLOgY3oYWfFbEaUiMOTR3imEL4r#   Jump back up to sentence in which this source was referenced:
 
-[^7]:7- (Schäfer et al., 2010) https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/0261510041552756   Jump back up to sentence in which this source was referenced:
+[^7]: (Schäfer et al., 2010) https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/0261510041552756   Jump back up to sentence in which this source was referenced:
 
-[^8]:8- (Carney et al., 2009) https://www.tandfonline.com/doi/full/10.1080/15388220903479602?casa_token=IZu0b2VCFLcAAAAA%3AjGTMbMVrlbXNWKFgvqcS7a9c9ZNsQJhO1KoFMyOMy3PR7W2AfkLOgY3oYWfFbEaUiMOTR3imEL4r#   Jump back up to sentence in which this source was referenced:
+[^8]: (Carney et al., 2009) https://www.tandfonline.com/doi/full/10.1080/15388220903479602?casa_token=IZu0b2VCFLcAAAAA%3AjGTMbMVrlbXNWKFgvqcS7a9c9ZNsQJhO1KoFMyOMy3PR7W2AfkLOgY3oYWfFbEaUiMOTR3imEL4r#   Jump back up to sentence in which this source was referenced:
 
-[^9]:9- (Boulton et al., 2010) https://journals.sagepub.com/doi/abs/10.1177/0143034310362329?casa_token=nDEKlw6Ng2MAAAAA:EWxnZXICKtQMPSe_orENv5Ky_2bq77AfnMz3XQ73DjSwY12Jq80KZPrKPMK4hA1-6_cY9DwJi50
+[^9]: (Boulton et al., 2010) https://journals.sagepub.com/doi/abs/10.1177/0143034310362329?casa_token=nDEKlw6Ng2MAAAAA:EWxnZXICKtQMPSe_orENv5Ky_2bq77AfnMz3XQ73DjSwY12Jq80KZPrKPMK4hA1-6_cY9DwJi50
    Jump back up to sentence in which this source was referenced:
 
-[^10]:10- (Mishna et al., 2016) https://www.sciencedirect.com/science/article/pii/S0190740916300433?casa_token=Ut_tbimQxxIAAAAA:uE2F9qm3CP_03rWP7LNRRv7jOT6CA7t-vdaR1bpQaQyaLUSCu5kpVofPdoyWPqHBn5XAbMUN   Jump back up to sentence in which this source was referenced:
+[^10]: (Mishna et al., 2016) https://www.sciencedirect.com/science/article/pii/S0190740916300433?casa_token=Ut_tbimQxxIAAAAA:uE2F9qm3CP_03rWP7LNRRv7jOT6CA7t-vdaR1bpQaQyaLUSCu5kpVofPdoyWPqHBn5XAbMUN   Jump back up to sentence in which this source was referenced:
 
-[^11]:11- (Östberg et al., 2017) https://www.tandfonline.com/doi/full/10.1080/15388220.2017.1296770?casa_token=meYAZ4sQ6_AAAAAA%3AseGqrcpVKE0MOY3ZpEVm49CY9PPxY5VTjRYqE61hp_kH0sJLwVvfPZhKpu7YXFggmyGGV9GU0F3f   Jump back up to sentence in which this source was referenced:
+[^11]: (Östberg et al., 2017) https://www.tandfonline.com/doi/full/10.1080/15388220.2017.1296770?casa_token=meYAZ4sQ6_AAAAAA%3AseGqrcpVKE0MOY3ZpEVm49CY9PPxY5VTjRYqE61hp_kH0sJLwVvfPZhKpu7YXFggmyGGV9GU0F3f   Jump back up to sentence in which this source was referenced:
 
-[^12]:12- (Strøm et al., 2018) https://www.tandfonline.com/doi/full/10.1080/20008198.2017.1418570   Jump back up to sentence in which this source was referenced:
+[^12]: (Strøm et al., 2018) https://www.tandfonline.com/doi/full/10.1080/20008198.2017.1418570   Jump back up to sentence in which this source was referenced:
 
-[^13]:13- (DeLara, 2013) https://www.tandfonline.com/doi/full/10.1080/15388220.2012.705931?casa_token=MMAN0bmsvLUAAAAA%3A09ETXMAhsPMHMhGk3TXUbh9uuFUCIYoT3sPqiJizI0gPyTS-94GMWmy_0khJs5zpyD5TJZDUa7WU   Jump back up to sentence in which this source was referenced:
+[^13]: (DeLara, 2013) https://www.tandfonline.com/doi/full/10.1080/15388220.2012.705931?casa_token=MMAN0bmsvLUAAAAA%3A09ETXMAhsPMHMhGk3TXUbh9uuFUCIYoT3sPqiJizI0gPyTS-94GMWmy_0khJs5zpyD5TJZDUa7WU   Jump back up to sentence in which this source was referenced:
 
-[^14]:14- (Reijntjes et al., 2013) https://link.springer.com/article/10.1007/s10802-013-9759-3   Jump back up to sentence in which this source was referenced:
+[^14]: (Reijntjes et al., 2013) https://link.springer.com/article/10.1007/s10802-013-9759-3   Jump back up to sentence in which this source was referenced:
 
-[^15]:15- (Quader et al., 2022) https://onlinelibrary.wiley.com/doi/full/10.1111/josh.13138?casa_token=1NvO16UCeHYAAAAA%3ACScEjX_hcXJaByz6fCrWbZnc1LNGfm1R1ZnaI2nKsFnxrbG0pDk3aU0YQB54o43jaMIPw9Vj2_X9
+[^15]: (Quader et al., 2022) https://onlinelibrary.wiley.com/doi/full/10.1111/josh.13138?casa_token=1NvO16UCeHYAAAAA%3ACScEjX_hcXJaByz6fCrWbZnc1LNGfm1R1ZnaI2nKsFnxrbG0pDk3aU0YQB54o43jaMIPw9Vj2_X9
    Jump back up to sentence in which this source was referenced:
 
-[^16]:16- (Wolke et al., 2001) https://adc.bmj.com/content/85/3/197.citation-tools   Jump back up to sentence in which this source was referenced:
+[^16]: (Wolke et al., 2001) https://adc.bmj.com/content/85/3/197.citation-tools   Jump back up to sentence in which this source was referenced:
 
-[^17]:17- Rigby, 2003) https://journals.sagepub.com/doi/abs/10.1177/070674370304800904   Jump back up to sentence in which this source was referenced:
+[^17]: Rigby, 2003) https://journals.sagepub.com/doi/abs/10.1177/070674370304800904   Jump back up to sentence in which this source was referenced:
 
-[^18]:18- (Gianaros & Wager, 2015) https://journals.sagepub.com/doi/full/10.1177/0963721415581476?casa_token=2zPZzT3FsLkAAAAA%3AVIPIrmhd0UHeesiKPjUqO1dep7YKMhHJJWTgSIdKqFhh7Pm2mIxiBFtQncZb8rx-84JGevvZyUBV   Jump back up to sentence in which this source was referenced:
+[^18]: (Gianaros & Wager, 2015) https://journals.sagepub.com/doi/full/10.1177/0963721415581476?casa_token=2zPZzT3FsLkAAAAA%3AVIPIrmhd0UHeesiKPjUqO1dep7YKMhHJJWTgSIdKqFhh7Pm2mIxiBFtQncZb8rx-84JGevvZyUBV   Jump back up to sentence in which this source was referenced:
 
-[^19]:19- (Schott & Søndergaard, 2014) https://books.google.co.uk/books?hl=en&lr=&id=OBaTAgAAQBAJ&oi=fnd&pg=PA1&dq=methods+of+school+bullying&ots=-KL9Cl6xi6&sig=ht8Djc5SbYIdMl4bPm6xK9iWy_g&redir_esc=y#v=onepage&q=methods%20of%20school%20bullying&f=false
+[^19]: (Schott & Søndergaard, 2014) https://books.google.co.uk/books?hl=en&lr=&id=OBaTAgAAQBAJ&oi=fnd&pg=PA1&dq=methods+of+school+bullying&ots=-KL9Cl6xi6&sig=ht8Djc5SbYIdMl4bPm6xK9iWy_g&redir_esc=y#v=onepage&q=methods%20of%20school%20bullying&f=false
    Jump back up to sentence in which this source was referenced:
 
-[^20]:20- (Thornberg et al., 2011) https://www.tandfonline.com/doi/full/10.1080/02671522.2011.641999?casa_token=zHNl41c7NgIAAAAA%3A9dxxTT_yPll5Vl1aYsvgmq7DN2tctfadwgdPEZhNNhfKnHZUsVMaQN3w45Vx3q23BMhl_EEQq7YB   Jump back up to sentence in which this source was referenced:
+[^20]: (Thornberg et al., 2011) https://www.tandfonline.com/doi/full/10.1080/02671522.2011.641999?casa_token=zHNl41c7NgIAAAAA%3A9dxxTT_yPll5Vl1aYsvgmq7DN2tctfadwgdPEZhNNhfKnHZUsVMaQN3w45Vx3q23BMhl_EEQq7YB   Jump back up to sentence in which this source was referenced:
 
-[^21]:21- (Baldry, 1998) https://journals.sagepub.com/doi/abs/10.1177/0143034398194007   Jump back up to sentence in which this source was referenced:
+[^21]: (Baldry, 1998) https://journals.sagepub.com/doi/abs/10.1177/0143034398194007   Jump back up to sentence in which this source was referenced:
 
 [^1]:1-    Jump back up to sentence in which this source was referenced:
