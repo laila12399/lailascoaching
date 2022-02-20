@@ -1,5 +1,5 @@
 ---
-title: "How to 'Cure' Perfectionism"
+title: "The True Implications of Perfectionism"
 date: 2022-01-22T22:20:28+01:00
 lastmod: 2022-01-22T22:20:28+01:00
 draft: false
@@ -17,7 +17,7 @@ The best way to overcome perfectionism is to redirect the emotions that cause it
 
 In order to highlight the irrationalism of perfectionism one should view the situation from a bird's eye view and consider the whole picture, rather than the small step the perfectionist is focusing on.
 
-## :mag: WHAT THEY DO
+## :mag: What do Perfectionists do?
 
 Let's paint a picture; you want to cook a soup. You only have some of the ingredients at home, so decide to cook it the next day when you have the last ingredient. 
 
@@ -71,7 +71,7 @@ By refusing to accept one of a series of steps to be complete, they waste time a
 
 This is usually just the tip of the iceberg of an internal emotional struggle they are facing which even they are usually not fully aware of.
 
-## :flashlight: WHY THEY DO IT
+## :flashlight: Why Perfectionists do It
 
 Often perfectionism has emotional roots that most are not fully aware of.  Sapadin & Maguire (1997) argue that perfectionism procrastination is motivated by the subconscious fear that the result’s of one’s performance may not be as good as one expects of oneself. 
 
@@ -89,7 +89,7 @@ The underlying fear the perfectionist grapples with may not necessarily be the f
 
 Afterall, the original expectations may have arisen from a belief in their own abilities. The perfectionist may actually be afraid of not being in control of themself to the extend necessary to complete the respective task to the standard they expect.
 
-## :checkered_flag: STEPS TO OVERCOME IT
+## :checkered_flag: Steps to Overcome Perfectionism
 
 For the perfectionist to overcome their tendencies, the goal is to become aware of their own patterns & their emotional causes, learn a rational replacing attitude and put it into practice with force factors.
 
