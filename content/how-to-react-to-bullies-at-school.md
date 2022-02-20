@@ -114,7 +114,7 @@ When confronted with school bullying involving direct attacks or name-calling us
 
 **Security-** Instead of being fearfully offensive or nervously agreeable, trust in yourself over others who are clearly trying to use you for their gain.
 
-**Outward Unfazed- ** Undisturbed from what you were doing, retain a calm, unthreaded unfazed front.
+**Outward Unfazed-** Undisturbed from what you were doing, retain a calm, unthreaded unfazed front.
 
 **Defect-** Defect the bystander’s critical attention back to the bully and questioning the bully’s actions rather than yourself.
 
