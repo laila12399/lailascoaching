@@ -11,7 +11,7 @@ author: "Laila"
 
 Commonly, the term perfectionism is presented as an admirable trait, associated with the idea of performing to one's potential wherever possible. In practice however, perfectionism causes people to act generally irrational and inefficient.
 
-Perfectionism has been linked to negative academic achievement (Karner-Huţuleac, 2014), anxiety (Koivula et al., 2002) and has been shown to undermine performance (Flett & Hewitt, 2005).
+Perfectionism has been linked to negative academic achievement[^1], anxiety[^2] and has been shown to undermine performance[^3].
 
 The best way to overcome perfectionism is to redirect the emotions that cause it. In order to do this, one should understand the ways in which perfectionism is preventing one from achieving one’s goal.
 
@@ -73,7 +73,7 @@ This is usually just the tip of the iceberg of an internal emotional struggle th
 
 ## :flashlight: Why Perfectionists do It
 
-Often perfectionism has emotional roots that most are not fully aware of.  Sapadin & Maguire (1997) argue that perfectionism procrastination is motivated by the subconscious fear that the result’s of one’s performance may not be as good as one expects of oneself. 
+Often perfectionism has emotional roots that most are not fully aware of.  Sapadin & Maguire (1997)[^4] argue that perfectionism procrastination is motivated by the subconscious fear that the result’s of one’s performance may not be as good as one expects of oneself. 
 
 They argue that when the perfectionist uses different methods to postpone task completion, they do so to postpone the possible frightening experience of not meeting their own expectations.
 
@@ -130,3 +130,22 @@ This could be any other person, a friend, a librarian, a spouse, a parent, a str
 Simple this may seem, accountability to another person outside yourself, significantly increases the likelihood that ‘things will get done’.
 
 Efficiently completing tasks in this manner, a number of times, will create positive reaffirming experiences of successfully handling the at hand task, making it easier to complete it in the future and debunking the fear of not being able to apply oneself to meet one’s own expectations. 
+
+References 
+--- 
+ [^1]:  (Karner-Huţuleac, 2014)https://www.sciencedirect.com/science/article/pii/S1877042814046278
+   Jump back up to sentence in which this source was referenced:
+
+[^2]: (Koivula et al., 2002) https://www.sciencedirect.com/science/article/pii/S0191886901000927
+   Jump back up to sentence in which this source was referenced:
+
+[^3]:  (Flett & Hewitt, 2005) https://journals.sagepub.com/doi/full/10.1111/j.0963-7214.2005.00326.x
+   Jump back up to sentence in which this source was referenced:
+
+[^4]: Sapadin & Maguire (1997) https://books.google.co.uk/books/about/It_s_about_Time.html?id=SksCAAAACAAJ    Jump back up to sentence in which this source was referenced:
+
+[^5]:    Jump back up to sentence in which this source was referenced:
+
+
+
+
