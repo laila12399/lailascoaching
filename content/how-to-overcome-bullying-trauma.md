@@ -1,6 +1,6 @@
 ---
 title: "How to Overcome Bullying Trauma"
-date: 2021-11-23T23:12:03+01:00
+date: 2022-02-09T09:18:42+01:00
 lastmod: 2022-02-09T09:18:42+01:00
 draft: false
 cbreadcrumbs: ["Bullying"]
@@ -9,11 +9,11 @@ author: "Laila"
 
 **What’s the most crushing thing about being bullied? It’s not what most people think it is.**
 
-Those close to victims of bullying are often not aware of the emotional burden they carry. For example, a study of over 7,000 students, found that victims of bullying reported internalising symptoms including frequent worries, sadness, nervousness, and fearfulness (Peskin et al., 2007).
+Those close to victims of bullying are often not aware of the emotional burden they carry. For example, a study of over 7,000 students, found that victims of bullying reported internalising symptoms including frequent worries, sadness, nervousness, and fearfulness[^1].
    
-In a recent cross continental study of 317,869 adolescents 30.5% experienced bullying victimisation in the past 30 days (Biswas et al., 2020).
+In a recent cross continental study of 317,869 adolescents 30.5% experienced bullying victimisation in the past 30 days[^2].
 
-A 2020 survey found that one in four workers have experienced bullying/ exclusion (Rosling, 2020). 
+A collection of survey found that more than one in 12 workers have experienced bullying[^3]. 
 
 ## :broken_heart: What Makes Bullying Painful 
 Let’s pinpoint what is the most painful about bullying victimisation. One might imagine that the worst thing about being bullied is the actual momentary experience. However, the root of the pain seems to lie elsewhere.
@@ -76,4 +76,24 @@ One should be aware that there are people with different intentions around one. 
 Above all the victim should be secure in their own intuition with a self trust not affected by others, in particular those who clearly trying use one for social stunts of bullying. 
 
 [Best Anti-Bullying Movies](/best-anti-bullying-movies/)
+
+References 
+---
+[^1]: (Peskin et al., 2007) https://www.sciencedirect.com/science/article/abs/pii/S1054139X06004253 Jump back up to sentence in which this source was referenced:
+
+[^2]: (Biswas et al., 2020) https://www.sciencedirect.com/science/article/pii/S2589537020300201 Jump back up to sentence in which this source was referenced:
+
+[^3]: (Einarsen & Skogstad, 2008) https://www.tandfonline.com/doi/abs/10.1080/13594329608414854    Jump back up to sentence in which this source was referenced:
+
+[^1]:    Jump back up to sentence in which this source was referenced:
+
+[^1]:    Jump back up to sentence in which this source was referenced:
+
+[^1]:    Jump back up to sentence in which this source was referenced:
+
+[^1]:    Jump back up to sentence in which this source was referenced:
+
+[^1]:    Jump back up to sentence in which this source was referenced:
+
+[^1]:    Jump back up to sentence in which this source was referenced:
 
