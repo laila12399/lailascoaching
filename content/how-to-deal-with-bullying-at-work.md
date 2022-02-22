@@ -9,23 +9,23 @@ author: "Laila"
 
 **Irrationally, workplace bullying is underreported and less present in discussions about bullying, despite how common it is.**
 
-An analysis of 148 organisations worldwide, found that 49% showed evidence of bullying on a regular basis (Hodson, Roscigno, & Lopez, 2006).
+An analysis of 148 organisations worldwide, found that 49% showed evidence of bullying on a regular basis[^1].
 
-In a US study 37% of workers reported being bullied at the workplace at some time during their careers (Namie, 2007).
+In a US study 37% of workers reported being bullied at the workplace at some time during their careers[^2].
 
-Earnshaw and Cooper (1996) reported that up to a third of UK stress-related employment legal cases are as a result of workplace bullying.
+ A 1996 stydy reported that up to a third of UK stress-related employment legal cases are as a result of workplace bullying[^3].
 
 ## :microscope: What’s different about it
 
 Workplace bullying can be more difficult to spot or reduce as it is unique in its subtlety, with it manifesting in indirect ways, for example using innuendos (indirect comments or hints).
 
-A study with 1,137 participants found that those who had not yet been bullied predicted that their reaction to being bullied at the workplace would be significantly more assertive than the reaction of participants who had been bullied actually was (Rayner, 1998).
+A study with 1,137 participants found that those who had not yet been bullied predicted that their reaction to being bullied at the workplace would be significantly more assertive than the reaction of participants who had been bullied actually was[^4].
 
 One reason for this could be that workplace bullying is unique in the way it plays out in contrast to how a classic bullying scenario is often represented in people’s minds.
 
-Out of reported workplace bullying instances only 8 % were physical bullying instances in in a study by (Einarssen et al., 1994), with the most common types being verbal and indirect.
+Out of reported workplace bullying instances only 8% were physical bullying instances in a study with 1,974 respondents[^5], with the most common types being verbal and indirect.
 
-As argued by (Rayner, Hoel, 1998), workplace bullying takes the shape of a wide range of subtle tactics. They group workplace bullying into the following categories:
+As argued by (Rayner, Hoel, 1998)[^6], workplace bullying takes the shape of a wide range of subtle tactics. They group workplace bullying into the following categories:
 
 •	**threat to personal status** (e.g. professional humiliation)
 
@@ -45,12 +45,12 @@ It may be cunning and less obvious- almost to the extend where mentioning it or 
 
 There seems to be a connection between bullying and the type of work environment. The likelihood that bullying occurs has been shown to be linked to leadership style and conflict between roles.
 
- An optimal circumstance for bullying to take place is a lack of effective leadership.
+An optimal circumstance for bullying to take place is a lack of effective leadership.
 
-A study with 5,288 participants compared different types of leadership styles and found that unpredictable leadership (were punishment is delivered on leaders’ own terms independent of workers behaviours) had the strongest likelihood of predicting workplace bullying. 
+A study with 5,288 participants compared different types of leadership styles and found that unpredictable leadership (were punishment is delivered on leaders’ own terms independent of workers behaviours) had the strongest likelihood of predicting workplace bullying [^7]. 
 
- When there is conflict between roles or unclear roles, bullying may take place resulting in e.g. the victim overworking, being under credited or being prevented access to opportunities. 
- A 2008 study by Einarssen et al. found that role conflict was the most consistent condition reliably linked to bullying in different types of workplaces.
+When there is conflict between roles or unclear roles, bullying may take place resulting in e.g. the victim overworking, being under credited or being prevented access to opportunities. 
+A 2008 study found that role conflict was the most consistent condition reliably linked to bullying in different types of workplaces[^5].
 
 ## :bellhop_bell: How to react
 
@@ -105,3 +105,20 @@ When confronted with workplace bullying involving humiliation, name calling and 
 
 [How to Help Bullying Victims](/how-to-help-bullying-victims/)
 
+References 
+---
+[^1]: (Hodson, Roscigno, & Lopez, 2006) https://journals.sagepub.com/doi/abs/10.1177/0730888406292885?casa_token=G1RS5VtQVVcAAAAA:jEb_DlYxHP2BzYpEbCma2LUSog0NGaOHNUgoRFl8vss8aLeC3ZWB7HZLI6ZuuOO24kyBNLcE7sJe   Jump back up to sentence in which this source was referenced:
+
+[^2]: (Namie, 2007) https://www.researchgate.net/profile/Gary-Namie/publication/229501008_The_challenge_of_workplace_bullying/links/5b059d8ba6fdcc8c25229cf5/The-challenge-of-workplace-bullying.pdf   Jump back up to sentence in which this source was referenced:
+
+[^3]: (Earnshaw & Cooper, 1996) http://www.opengrey.eu/item/display/10068/464037   Jump back up to sentence in which this source was referenced:
+
+[^4]: (Rayner, 1998) https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-1298(199706)7:3%3C199::AID-CASP418%3E3.0.CO;2-H?casa_token=yeLumpII5Q4AAAAA:ScsSPfYhY4fQUFFPUiYivIv_ZSgnU86a-CoDOw7vPHEpGxCp_Rn67fPMXypwoLijjMOQHU8ThC6nSw   Jump back up to sentence in which this source was referenced:
+
+[^5]: (Einarssen et al., 2008) https://www.tandfonline.com/doi/pdf/10.1080/13594329408410497?needAccess=true   Jump back up to sentence in which this source was referenced:
+
+[^6]: (Rayner, Hoel, 1998) https://onlinelibrary.wiley.com/doi/epdf/10.1002/%28SICI%291099-1298%28199706%297%3A3%3C181%3A%3AAID-CASP416%3E3.0.CO%3B2-Y   Jump back up to sentence in which this source was referenced:
+
+[^7]: (Hoel et al., 2010) https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8551.2009.00664.x?casa_token=oVEbOfKOn_cAAAAA%3AK7NF1CvwLNseK48imv-D8-lKzxbqFnl-SU-wkBrJC1NK_NyD0kqzsYIms29W1Humh2NAKiPqiN253w  Jump back up to sentence in which this source was referenced:
+
+[^8]:    Jump back up to sentence in which this source was referenced:
