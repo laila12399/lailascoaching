@@ -133,7 +133,7 @@ Efficiently completing tasks in this manner, a number of times, will create posi
 
 References 
 --- 
- [^1]:  (Karner-Huţuleac, 2014)https://www.sciencedirect.com/science/article/pii/S1877042814046278
+ [^1]:  (Karner-Huţuleac, 2014) https://www.sciencedirect.com/science/article/pii/S1877042814046278
    Jump back up to sentence in which this source was referenced:
 
 [^2]: (Koivula et al., 2002) https://www.sciencedirect.com/science/article/pii/S0191886901000927
