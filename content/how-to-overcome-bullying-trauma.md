@@ -13,7 +13,7 @@ Those close to victims of bullying are often not aware of the emotional burden t
    
 In a recent cross continental study of 317,869 adolescents 30.5% experienced bullying victimisation in the past 30 days[^2].
 
-A collection of survey found that more than one in 12 workers have experienced bullying[^3]. 
+A collection of surveys suggestst that more than one in 12 workers have experienced bullying[^3]. 
 
 ## :broken_heart: What Makes Bullying Painful 
 Let’s pinpoint what is the most painful about bullying victimisation. One might imagine that the worst thing about being bullied is the actual momentary experience. However, the root of the pain seems to lie elsewhere.
