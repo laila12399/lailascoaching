@@ -9,7 +9,7 @@ author: "Laila"
 
 **Can movies help bullying victims?**
 
-This study found that positive characteristics and behaviors can be enhanced through watching moving (Smithikrai, 2016). A different study found that watching movies can temporarily elevate anxiety (Mojdeh et al., 2013). A recent study found that movie watching improves empathy (Ahmadzadeh et al., 2019)
+Some studies found that watching movies can enhance positive characteristics[^1], elevate anxiety[^2]  and improve empathy[^3].
 
 
 ## :popcorn: The Karate Kid (1984)
@@ -54,4 +54,13 @@ Jesse the bullied protagonist befriend Leslie the class outsider. Together, they
 
 The protaginist August stands out becase of his facial abnormalities. Him and his new frind Jack bond and face the bullies together.
 
-[How to Overcome Bullying Trauma](/how-to-overcome-bullying-trauma/) 
+[How to Help Bullying Victims](/how-to-help-bullying-victims/)
+
+References 
+---
+
+[^1]: (Smithikrai, 2016) https://www.sciencedirect.com/science/article/pii/S1877042816000586temporarily    Jump back up to sentence in which this source was referenced:
+
+[^2]: (Mojdeh et al., 2013) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3872870/   Jump back up to sentence in which this source was referenced:
+
+[^3]: (Ahmadzadeh et al., 2019) https://pubmed.ncbi.nlm.nih.gov/31807222/   Jump back up to sentence in which this source was referenced:
