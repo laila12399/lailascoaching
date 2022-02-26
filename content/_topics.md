@@ -2,7 +2,7 @@
 title: "Topics"
 author: "-"
 date: 2021-11-28T18:22:52+01:00
-lastmod: 2022-02-18T18:14:28+01:00
+lastmod: 2022-02-09T09:18:42+01:00
 hidemeta: true
 draft: false
 url: "/topics/"
@@ -12,7 +12,7 @@ hidden: true
 
 * [Perfectionism](/perfectionism/)
 1. [How to 'Cure' Perfectionism](/how-to-cure-perfectionism/)
-2. [Studies Exposing Perfectionism](/studies-exposing-perfectionism/)
+2. ['Advantages' and 'Disadvantages' of Perfectionism](/advantage-and-disadvantages-of-perfectionism/)
 3. [Perfectionism vs Healthy Striving- According to Brené Brown](/perfectionism-vs-healthy-striving-according-to-brene-brown/)
 
 * [Bullying](/bullying/)
