@@ -131,6 +131,8 @@ Simple this may seem, accountability to another person outside yourself, signifi
 
 Efficiently completing tasks in this manner, a number of times, will create positive reaffirming experiences of successfully handling the at hand task, making it easier to complete it in the future and debunking the fear of not being able to apply oneself to meet one’s own expectations. 
 
+Related post- ['Advantages' and 'Disadvantages' of Perfectionism](/advantage-and-disadvantages-of-perfectionism/)
+
 References 
 --- 
  [^1]:  (Karner-Huţuleac, 2014) https://www.sciencedirect.com/science/article/pii/S1877042814046278
