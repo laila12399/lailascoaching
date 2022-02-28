@@ -1,7 +1,7 @@
 ---
 title: "How to React to Bullies at School"
 date: 2022-02-18T18:13:59+01:00
-lastmod: 2022-02-18T18:13:59+01:00
+lastmod: 2022-02-28T28:12:33+01:00
 draft: false
 cbreadcrumbs: ["Bullying"]
 author: "Laila"
@@ -26,17 +26,20 @@ School bulling victimisation has been linked to various consequences. Here is so
 Many of the consequences of school bulling victimisation are not confined to the momentary bulling experience but have more long-lasting impacts. For example:
 
 •	generally **higher Anxiety**[^4]
+
 •	increasing levels of **stress**[^5]
+
 •	**low self-esteem**[^6],[^7]
+
 •	**withdrawn behaviours**[^4]
 
 A study with students who had experienced school bulling for a minimum of one year found that bullying victims **internalised the socially constructed ‘victim image’** and the way they thought classmates saw them, even acting upon this image[^20]. 
 
 School bullying has also been linked to **high anxiety** at lunch time when potential bullying instance might be higher[^8]. 
 
-A connection has also been shown between school bulling and negative feelings of **self- worth**[^9] as well as**negative self-perception**[^10], especially in girls[^11]. 
+A connection has also been shown between school bulling and negative feelings of **self- worth**[^9] as well as **negative self-perception**[^10], especially in girls[^11]. 
 
-Seeing as the bully is the perpetrator and the bullying victim is merely the recipient of their behaviour, if either one of them were to feel significant shame one might image it be the bully. 
+Seeing as the bully is the perpetrator and the bullying victim is merely the recipient of their behaviour, if either one of them were to feel significant shame one might imagine it be the bully. 
 
 However, research shows that bullying victims are likely to experience significant **shame** for being a bully victim[^12].
 
@@ -54,30 +57,32 @@ A study with 3,377 participants compared self-reported levels of bullying and wa
 
 Research also found that school bullying victims were more likely to have repeated physical health symptoms (e.g. repeated sore throats, colds, and coughs)[^16],[^17].
 
-This could be explained by a link between stress and negative psychical health symptoms[^18]. This connection might be equally as strong, if not stronger with self-directed negative emotions such as shame and negative self-perception, which are things that have been experienced by bullying victims, as discussed above.
+This could be explained by a link between stress and negative physical health symptoms[^18]. This connection might be equally as strong, if not stronger with self-directed negative emotions such as shame and negative self-perception, which are things that have been experienced by bullying victims, as discussed above.
 
 
 ## :tornado: Bullying Spiral - Is It the Victims Fault?
 
 Representations of school bulling in popular media are often misleading. The image many people have in their head of a classic bullying interaction often fails to include anything past name calling, physical altercations or momentary humiliation.
 
-In reality however, the actually most difficult consequences of bulling are not the momentary embarrassment or the fleeting uncomfortable experience. 
+In reality however, some of the the actually most difficult consequences of bulling are not the momentary embarrassment or the fleeting uncomfortable experience. 
 
-Instead, it is the lasting social repercussions and the chronic hum of anxiety accompanying the increased likely hood of further bullying altercations or loss of social standing through, for example social group exclusion and the following loss of friends who don’t want to become a bullying target also.
+Often overlooked, are the lasting social repercussions and the chronic hum of anxiety accompanying the increased likely hood of further bullying altercations or loss of social standing through, for example social group exclusion and the following loss of friends who don’t want to become a bullying target also.
 
-Furthermore, what some argue to be even more devastating is the critical, shameful blaming emotions that the victim directs toward themselves.
+Furthermore, what some argue to be the heaviest burden, is the shameful blaming emotions that the victim directs toward themselves.
 
-Bullying victims are often trapped in a downward spiral started off by a few bulling interactions, that have trickling social repercussions, impacting their social standing is such a way that further bulling behaviours such as exclusion or reputation destruction are more and more likely, the more bullying interactions they receive.
+These self blaming emotions that bullying victims frequently experience can be especially out of place and neglecting of factors out of the victims control that are facilitating the situation. 
 
-On the way down they will be subjected to harsher interactions the further down they fall on the spiral. 
+One of these factors out of the victims control is the ***bullying spiral***.
 
-Bulling victims are often plagued with constant anxiety about this, even though they are not being bullied at that exact moment. 
+This is where bullying victims end up being bullied by a number of people started off by a few bulling interactions, with trickling social repercussions impacting their social standing in such a way that further targeting such as exclusion or reputation destruction are more and more likely, the more bullying interactions they receive.
+
+Bulling victims are often plagued with constant anxiety, even though they are not being bullied at that exact moment. 
 
 Stefani Germanotta (Lady Gaga) described how she was bullied at school and recalled not being able to concentrate in class because of how embarrassed she felt[^19].
 
 On top of that, there is an incentive to engage in bulling interactions.
 
-As mentioned in the above section, engaging in bulling other students often leads to improved social standing and lowered likelihoods of to receiving bullying altercations themselves. 
+As mentioned in the above section, engaging in bulling other students often leads to improved social standing and lowered likelihood of receiving bullying altercations themselves. 
 
 This provides a strong motive for others to engage in some form of bullying behaviour, should an opportunity present itself. 
 
@@ -130,7 +135,7 @@ In this case, when someone in your school friend group is targeting you and indi
 
 On the other hand, if you were to react overly agreeable (by e.g., apologising or making excuses) you may seem nervous and too suggestable to be a stable friend to rely on. This will also make it more likely that you will be excluded rather than prevent it.
 
-In contrast, say you were to avoid the temptation to respond to it directly and thereby dignify the remark, but instead focus the others in the friend group and create a joint discussion involving the other members of the group (by e.g., first engaging a dialogue with one person about something you know they are enthusiastic about and then proceed to actively involve others one at a time). This will reinforce your position in the friend group and responds to the passive aggressive remark, signalling that you don’t take their advance serious.
+In contrast, say you were to avoid the temptation to respond to it directly and thereby dignify the remark. Instead focus on the others in the friend group and create a joint discussion involving the other members of the group (by e.g., first engaging a dialogue with one person about something you know they are enthusiastic about and then proceed to actively involve others one at a time). This will reinforce your position in the friend group and responds to the passive aggressive remark, signalling that you don’t take their advance serious.
 
 This however is only one of a variety of unique indirect/ reputation destruction bullying interactions that take place in schools. 
 
@@ -156,8 +161,6 @@ It can also be helpful to appreciate that bullying may be more common in some sc
 Above all, the most impactful is the internal reaction and debunking the self – directed blame. 
 This guide [How to Overcome Bullying Trauma](/how-to-overcome-bullying-trauma/) goes into more detail on how to do this.
 
-
-…
 
 References 
 ---
@@ -208,4 +211,4 @@ References
 
 [^21]: (Baldry, 1998) https://journals.sagepub.com/doi/abs/10.1177/0143034398194007   Jump back up to sentence in which this source was referenced:
 
-[^1]:1-    Jump back up to sentence in which this source was referenced:
+[^1]:    Jump back up to sentence in which this source was referenced:
