@@ -14,11 +14,11 @@ Popular advice on school bullying is inappropriate for real situations and is so
 
 ## :eye: How Much does School bullying Happen?
 
-A Canadian study of 3,829 students aged 9- 14 found **41.8%** to have experienced bulling victimisation to some degree[^1].
+A canadian study of 3,829 students aged 9- 14 found **41.8%** to have experienced bulling victimisation to some degree[^1].
 
 A recent survey US study of 463 students, found that **37%** reported being bullied[^2]. 
 
-In a Chinese survey study of 95,873 students, **30.4%** reported being bullied at least one time[^3].
+In a chinese survey study of 95,873 students, **30.4%** reported being bullied at least one time[^3].
 
 ## :link: What can School bullying Lead To?
 
@@ -38,7 +38,7 @@ Many of the consequences of school bulling victimisation are not confined to the
 
 A study with students who had experienced school bulling for a minimum of one year found that bullying victims **internalised the socially constructed ‘victim image’** and the way they thought classmates saw them, even acting upon this image[^20]. 
 
-School bullying has also been linked to **high anxiety** at lunch time when potential bullying instance might be higher[^8]. 
+School bullying has also been linked to **high anxiety** at lunch time when potential bullying instances might be higher[^8]. 
 
 A connection has also been shown between school bulling and negative feelings of **self- worth**[^9] as well as **negative self-perception**[^10], especially in girls[^11]. 
 
@@ -52,9 +52,9 @@ This makes it more likely that the bully victim would not relate their bullying 
 
 As often misrepresented in popular media, the bully is likely to receive social advantages as a result of their bullying behaviour[^14].
 
-### :medical_symbol: Physical Health consequences
+### :medical_symbol: Physical Health Consequences
 
-School bulling victimisation have also been linked to various physical consequences.
+School bulling victimisation has also been linked to various physical consequences.
 
 A study with 3,377 participants compared self-reported levels of bullying and waist circumference between age 9 and 15. They found that students who reported experiencing school bullying had larger increases in body mass index (BMI). Compared to boys, girls had a larger waist circumference for increased levels of reported bullying[^15]. 
 
@@ -73,7 +73,7 @@ Often overlooked, are the lasting social repercussions and the chronic hum of an
 
 Furthermore, what some argue to be the heaviest burden, is the shameful blaming emotions that the victim directs toward themselves.
 
-These self blaming emotions that bullying victims frequently experience can be especially out of place and neglecting of factors out of the victims control that are facilitating the situation. 
+These self blaming emotions that bullying victims frequently experience are fails to consider factors out of the victims control that are facilitating the situation. 
 
 One of these factors out of the victims control is the ***bullying spiral***.
 
@@ -85,15 +85,15 @@ Stefani Germanotta (Lady Gaga) described how she was bullied at school and recal
 
 On top of that, there is an incentive to engage in bulling interactions.
 
-As mentioned in the above section, engaging in bulling other students often leads to improved social standing and lowered likelihood of receiving bullying altercations themselves. 
+Bulling other students often leads to improved social standing and lowered likelihood of being a target of bullying themselves[^14]. 
 
-This provides a strong motive for others to engage in some form of bullying behaviour, should an opportunity present itself. 
+This provides a strong motive for others to engage in bullying behaviour, should an opportunity present itself. 
 
 Someone who has previously been bullied and has suffered the consequent negative social ripple, will present as an easy target for others to bully in order to improve their own social position.
 
-Therefore, the bullying victim will often end up being bullied by a number of others, kicked off by few initial people picking on the victim and others joining in.
+Therefore, bullying victims who end up being targeted by a number of people, were often the victims of a spiral, kicked off by a few people initially picking on the victim and others using the opportunity to join in.
 
-This may often not be fully realised by the victim or reflected in the self-directed negative emotions they are suffering under with thoughts such as ‘I am being bullied because I deserve it’ or ‘I am being bullied because of things I did wrong’, ‘I should not tell anyone that I am being bullied because it shows how flawed I am’ etc.
+This may often not be fully realised by the victim or reflected in the self-directed negative emotions they are suffering from with thoughts such as ‘I am being bullied because I deserve it’ or ‘I am being bullied because of things I did wrong’, ‘I should not tell anyone that I am being bullied because it shows how flawed I am’ etc.
 
 **In other words, bully victims are often bullied as a result of a ripple effect started off by a few bullying interactions, more often so than because of anything specific to them or their input.**
 
