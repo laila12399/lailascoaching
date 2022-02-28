@@ -9,7 +9,7 @@ author: "Laila"
 
 **School bullying is unique in how common a phenomena it is, while simultaneously being astonishingly misunderstood.**
 
-Popular advice on school bullying is inappropriate for real situations and is sometimes even counterproductive.**
+Popular advice on school bullying is inappropriate for real situations and is sometimes even counterproductive.
 
 
 ## :eye: How Much does School bullying Happen?
