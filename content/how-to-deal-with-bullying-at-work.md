@@ -7,7 +7,7 @@ cbreadcrumbs: ["Bullying"]
 author: "Laila"
 ---
 
-**Workplace bullying is underreported and often not taken as serious as other types of bullying**
+**Workplace bullying is underreported and not taken as serious as other types of bullying.**
 
 An analysis of 148 organizations worldwide, found that 49% showed evidence of bullying regularly [^1].
 
