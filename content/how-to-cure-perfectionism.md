@@ -1,7 +1,7 @@
 ---
 title: "How to 'Cure' Perfectionism"
 date: 2022-01-22T22:20:28+01:00
-lastmod: 2022-01-22T22:20:28+01:00
+lastmod: 2022-03-10T10:14:21+01:00
 draft: false
 cbreadcrumbs: ["Perfectionism"]
 author: "Laila"
@@ -9,13 +9,13 @@ author: "Laila"
 
 **Perfectionism may be destructive, but it could be rooted in a personal strength.**
 
-Commonly, the term perfectionism is presented as an admirable trait, associated with the idea of performing to one's potential wherever possible. In practice however, perfectionism causes people to act generally irrational and inefficient.
+Commonly, the term perfectionism is presented as an admirable trait, associated with the idea of performing to one's potential wherever possible. In practice, however, perfectionism causes people to act generally irrational and inefficient.
 
 Perfectionism has been linked to negative academic achievement[^1], anxiety[^2] and has been shown to undermine performance[^3].
 
 The best way to overcome perfectionism is to redirect the emotions that cause it. In order to do this, one should understand the ways in which perfectionism is preventing one from achieving one’s goal.
 
-In order to highlight the irrationalism of perfectionism one should view the situation from a bird's eye view and consider the whole picture, rather than the small step the perfectionist is focusing on.
+In order to highlight the irrationalism of perfectionism, one should view the situation from a bird's eye view and consider the whole picture, rather than the small step the perfectionist is focusing on.
 
 ## :mag: What do Perfectionists do?
 
@@ -25,7 +25,7 @@ The next day comes, and you remember you wanted to practice how to cut onions an
 
 After some time, you start to get hungry and eat a ready meal instead, pushing the soup preparation to the next day. 
 
-The next day comes, and you start chopping them up just as planned. You remember some advantage of chopping the vegetables very small and proceed to do so. 
+The next day comes, and you start chopping them up just as planned. You remember some advantages of chopping the vegetables very small and proceed to do so. 
 
 After some time, you start to get hungry and decide to store the chopped ingredients until tomorrow and eat a ready meal today instead. The next day comes, and you finish the soup.
 
@@ -39,11 +39,11 @@ Unlike you, Jack successfully prepared a soup each of the three days, came up wi
 
 This is a classic example of how perfectionism plays out. A perfectionist will repeat these tendencies in various areas of their life. 
 
-For one, a worker might push the writing of a report to a time when they have 'had more sleep' or 'have read more', which are things which might actually be ever so slightly helpful, and they therefore use it to justify their behavior to themselves. 
+For one, a worker might push the writing of a report to a time when they have 'had more sleep' or 'have read more', which are things which might be ever so slightly helpful, and they, therefore, use it to justify their behavior to themselves. 
 
-They then spend a long period of time thinking about the wording and font. After making small careful steps of progress divided by justified procrastination periods, the worker might even have one 'fantastic' paragraph, but as the deadline nears, the worker is forced to reword something they saw on the internet and submit a sloppy report.
+They then spend a long period thinking about the wording and font. After making small careful steps of progress divided by justified procrastination periods, the worker might even have one 'fantastic' paragraph, but as the deadline nears, the worker is forced to reword something they saw on the internet and submit a sloppy report.
 
-In summary the perfectionist will often end up eating a ‘ready meal’ or submitting a ‘sloppy report’ although they had opportunity to create something in line with their interests. 
+In summary, the perfectionist will often end up eating a ‘ready meal’ or submitting a ‘sloppy report’ although they had the opportunity to create something in line with their interests. 
 
 The classic pitfalls of a perfectionist can be placed into three categories:
 1. :arrow_right: Not Starting
@@ -64,7 +64,7 @@ Often, they find a way around facing the emotion of doing the task but also foll
 They may spend considerable time on a related task that might technically be slightly helpful to the main task but is in actuality a way of avoiding doing the main work and thereby facing their underlying emotional turmoil.
 
 ### :hourglass_flowing_sand: Opportunity cost
-In the whole, the perfectionist’s greatest pitfall is their irrational use of time. The greatest cost their tendencies has is the avoided opportunities they have to make efficient progress. 
+On the whole, the perfectionist’s greatest pitfall is their irrational use of time. The greatest cost their tendencies has is the missing of opportunities they have to make efficient progress. 
 
 By refusing to accept one of a series of steps to be complete, they waste time and postpone progress.
 
@@ -73,21 +73,21 @@ This is usually just the tip of the iceberg of an internal emotional struggle th
 
 ## :flashlight: Why Perfectionists do It
 
-Often perfectionism has emotional roots that most are not fully aware of.  Sapadin & Maguire (1997)[^4] argue that perfectionism procrastination is motivated by the subconscious fear that the result’s of one’s performance may not be as good as one expects of oneself. 
+Often perfectionism has emotional roots that most are not fully aware of. Sapadin & Maguire (1997)[^4] argue that perfectionism procrastination is motivated by the subconscious fear that the results of one’s performance may not be as good as one expects of oneself. 
 
 They argue that when the perfectionist uses different methods to postpone task completion, they do so to postpone the possible frightening experience of not meeting their own expectations.
 
-Often these ‘slightly helpful’ activities used to postpone task completion may seem especially delicious to a perfectionist because they are an excuse to postpone the completing of the task. 
+Often these ‘slightly helpful’ activities used to postpone task completion may seem especially delicious to a perfectionist because they are an excuse to postpone the completion of the task. 
 
-By this way they avoid facing the painful fear subconsciously associated with testing their’s performance. 
+By this way, they avoid facing the painful fear subconsciously associated with testing their’s performance. 
 
-Consciously however, they might hold the narrative that they are holding of doing the task or moving on to the next step for a rational reason, rather than to avoid facing the emotions associated with completing the task.
+Consciously, however, they might hold the narrative that they are holding of doing the task or moving on to the next step for a rational reason, rather than to avoid facing the emotions associated with completing the task.
 
-The fear might not necessarily be that they don’t have the ability to compete the task to meet their expectations, but rather that they aren’t able to apply themselves as they could. 
+The fear might not necessarily be that they don’t have the ability to complete the task to meet their expectations, but rather that they aren’t able to apply themselves as they could. 
 
 The underlying fear the perfectionist grapples with may not necessarily be the fear of not having the skills or talent required but the fear of not being disciplined enough to use their abilities as they would like to. 
 
-Afterall, the original expectations may have arisen from a belief in their own abilities. The perfectionist may actually be afraid of not being in control of themself to the extend necessary to complete the respective task to the standard they expect.
+After all, the original expectations may have arisen from a belief in their own abilities. The perfectionist may actually be afraid of not being in control of themself to the extent necessary to complete the respective task to the standard they expect.
 
 ## :checkered_flag: Steps to Overcome Perfectionism
 
@@ -107,27 +107,27 @@ Based on current research results I suggest the following steps:
 ### :bulb: Recognize Patterns
 In order to overcome perfectionism, the perfectionist should be aware that they have these tendencies. They should identify areas where they are displaying perfectionistic behavior and realize how these have been counterproductive to their interests. 
 
-They should think back to a time where perfectionism has inhibited efficient progress for a task they wanted to complete. 
+They should think back to a time when perfectionism has inhibited efficient progress for a task they wanted to complete. 
 
 Realizing how they may have practiced procrastination using ‘slightly helpful’ related activities that they excessively focused on or made excuses to postpone progress. 
 
-They should attempt to in vision how they might have gone about the task completion process efficiently and thereby demonstrate to themselves the impact of this emotional turmoil.
+They should attempt to envision how they might have gone about the task completion process efficiently and thereby demonstrate to themselves the impact of this emotional turmoil.
 
 ### :eye_speech_bubble: Shift Attitude
 The perfectionist’s attitude should be adjusted. Instead of viewing tasks as a final assessment of undevelopable abilities, the goal should be to complete the at hand task as a draft. 
 
-The intention should be to use the completed task as a steppingstone on the road to improve one’s ability to perform this task. The focus should be on completing the task and revising the result in order to get better at this task. 
+The intention should be to use the completed task as a stepping stone on the road to improve one’s ability to perform this task. The focus should be on completing the task and revising the result in order to get better at this task. 
 
 One helpful thing to consider is that it is a lot easier to turn a bad thing into a great thing than to create a great thing from scratch.
 
 ### :handshake: Make it Easy: Use Force Factors
 After adopting this new attitude, it may still take some practice to learn new behavior patterns. In order to make this as easy as possible, use force factors. 
 
-While still trying to reprogram tendencies, they should avoid putting themselves into situations where they rely on will power entirely. One of the best force factors is accountability to someone else. 
+While still trying to reprogram tendencies, they should avoid putting themselves into situations where they rely on willpower entirely. One of the best force factors is accountability to someone else. 
 
-This could be any other person, a friend, a librarian, a spouse, a parent, a stranger from social media etc. Let them in on your past struggles and make an agreement with them where you regularly inform them of your intended progress, and they check on you at agreed times. 
+This could be any other person, a friend, a librarian, a spouse, a parent, a stranger from social media, etc. Let them in on your past struggles and make an agreement with them where you regularly inform them of your intended progress, and they check on you at agreed times. 
 
-Simple this may seem, accountability to another person outside yourself, significantly increases the likelihood that ‘things will get done’.
+Simple as this may seem, accountability to another person outside yourself significantly increases the likelihood that ‘things will get done'.
 
 Efficiently completing tasks in this manner, a number of times, will create positive reaffirming experiences of successfully handling the at hand task, making it easier to complete it in the future and debunking the fear of not being able to apply oneself to meet one’s own expectations. 
 
@@ -135,18 +135,18 @@ Related post- ['Advantages' and 'Disadvantages' of Perfectionism](/advantage-and
 
 References 
 --- 
- [^1]:  (Karner-Huţuleac, 2014) https://www.sciencedirect.com/science/article/pii/S1877042814046278
-   Jump back up to sentence in which this source was referenced:
+ [^1]: (Karner-Huţuleac, 2014) https://www.sciencedirect.com/science/article/pii/S1877042814046278
+ Jump back up to sentence in which this source was referenced:
 
 [^2]: (Koivula et al., 2002) https://www.sciencedirect.com/science/article/pii/S0191886901000927
-   Jump back up to sentence in which this source was referenced:
+ Jump back up to sentence in which this source was referenced:
 
-[^3]:  (Flett & Hewitt, 2005) https://journals.sagepub.com/doi/full/10.1111/j.0963-7214.2005.00326.x
-   Jump back up to sentence in which this source was referenced:
+[^3]: (Flett & Hewitt, 2005) https://journals.sagepub.com/doi/full/10.1111/j.0963-7214.2005.00326.x
+ Jump back up to sentence in which this source was referenced:
 
-[^4]: Sapadin & Maguire (1997) https://books.google.co.uk/books/about/It_s_about_Time.html?id=SksCAAAACAAJ    Jump back up to sentence in which this source was referenced:
+[^4]: Sapadin & Maguire (1997) https://books.google.co.uk/books/about/It_s_about_Time.html?id=SksCAAAACAAJ Jump back up to sentence in which this source was referenced:
 
-[^5]:    Jump back up to sentence in which this source was referenced:
+[^5]: Jump back up to sentence in which this source was referenced:
 
 
 
