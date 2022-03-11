@@ -7,7 +7,7 @@ cbreadcrumbs: ["Bullying"]
 author: "Laila"
 ---
 
-**School bullying is unique in how common a phenomena it is, while simultaneously being astonishingly misunderstood.**
+**School bullying is unique in how common it is, while being grossly misunderstood.**
 
 Popular advice on school bullying is inappropriate for real situations and is sometimes even counterproductive.
 
