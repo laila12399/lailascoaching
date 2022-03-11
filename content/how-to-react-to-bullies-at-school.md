@@ -12,7 +12,7 @@ author: "Laila"
 Popular advice on school bullying is inappropriate for real situations and is sometimes even counterproductive.
 
 
-## :eye: How Much does School bullying Happen?
+## :eye: How Often does School Bullying Happen?
 
 A canadian study of 3,829 students aged 9- 14 found **41.8%** to have experienced bulling victimisation to some degree[^1].
 
@@ -20,11 +20,11 @@ A recent survey US study of 463 students, found that **37%** reported being bull
 
 In a chinese survey study of 95,873 students, **30.4%** reported being bullied at least one time[^3].
 
-## :link: What can School bullying Lead To?
+## :link: What Can School Bullying Lead To?
 
 School bulling victimisation has been linked to various consequences. Here is some research on some common happenings.
 
-### :eight_pointed_black_star: Emotional Consequences
+### :eight_pointed_black_star: Emotional Impacts
 
 Many of the consequences of school bulling victimisation are not confined to the momentary bulling experience but have more long-lasting impacts. For example:
 
@@ -52,7 +52,7 @@ This makes it more likely that the bully victim would not relate their bullying 
 
 As often misrepresented in popular media, the bully is likely to receive social advantages as a result of their bullying behaviour[^14].
 
-### :medical_symbol: Physical Health Consequences
+### :medical_symbol: Impacts on the Body
 
 School bulling victimisation has also been linked to various physical consequences.
 
