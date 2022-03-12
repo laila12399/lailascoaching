@@ -1,7 +1,7 @@
 ---
 title: "How to Protect From School Bullying & Bully-Proof Your Child"
 date: 2022-03-11T11:14:45+01:00
-lastmod: 2022-03-11T11:14:45+01:00
+lastmod: 2022-03-12T12:16:26+01:00
 draft: false
 cbreadcrumbs: ["Bullying"]
 author: "Laila"
@@ -11,7 +11,7 @@ author: "Laila"
 
 *What is there to protect bullying victims from?*
 
-Research suggest, instead of the momentary uncomfortable bullying experience, the victim’s self-blaming belief that their input caused the bullying has been shown to be the most detrimental.
+Instead of the momentary uncomfortable bullying experience, It seems to be the victim’s self-blaming belief that their input caused the bullying is what has been shown to be the most detrimental.
 
 With this understanding, in order to protect someone from bullying victimization, which they might inevitably face, the focus should be on the victim’s emotional reaction.
 
@@ -94,7 +94,7 @@ Furthermore, reacting calm and not too serious can also let the child know that 
 
 Overall, the only social goal signaled, should be to help the child have a better time, rather than achieving or avoiding social success or failure. 
 
-## :man_playing_water_polo: How to Encourgae Socializing
+## :man_playing_water_polo: How to Encourages Socializing
 
 *One should not confuse encouraging the child to socialize as sending message 1.*
 
