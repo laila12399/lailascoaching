@@ -1,7 +1,7 @@
 ---
 title: "How to Protect From School Bullying & Bully-Proof Your Child"
 date: 2022-03-11T11:14:45+01:00
-lastmod: 2022-03-12T12:16:26+01:00
+lastmod: 2022-03-18T18:16:45+01:00
 draft: false
 cbreadcrumbs: ["Bullying"]
 author: "Laila"
@@ -11,14 +11,14 @@ author: "Laila"
 
 *What is there to protect bullying victims from?*
 
-Instead of the momentary uncomfortable bullying experience, It seems to be the victim’s self-blaming belief that their input caused the bullying is what has been shown to be the most detrimental.
+Instead of the momentary uncomfortable bullying experience, what seems to be the most detrimental is the victim’s self-blaming belief that their input caused the bullying.
 
 With this understanding, in order to protect someone from bullying victimization, which they might inevitably face, the focus should be on the victim’s emotional reaction.
 
 
-At the center is an individual’s social goal, what their general social intention is. This can facilitate or hinder stable security in oneself, affecting personal traits and life expertise.
+At the root of this, is the individual’s social goal, and what their general social intention is. This can facilitate or hinder long-term security in themselves, affecting their traits and life experience.
 
-**Self-compassionate social goals have been linked to secure and connected feelings white self-image social goals have been linked to loneliness and afraid feelings.**[^1] 
+**Self-compassionate social goals have been linked to secure and connected feelings while self-image social goals have been linked to loneliness and afraid feelings.**[^1] 
 
 ## :busts_in_silhouette: The Two Social Goals
 
@@ -94,7 +94,7 @@ Furthermore, reacting calm and not too serious can also let the child know that 
 
 Overall, the only social goal signaled, should be to help the child have a better time, rather than achieving or avoiding social success or failure. 
 
-## :man_playing_water_polo: How to Encourages Socializing
+## :man_playing_water_polo: How to Encourage Socializing
 
 *One should not confuse encouraging the child to socialize as sending message 1.*
 
@@ -102,11 +102,11 @@ When encouraging the child to socialize, message 2 can be signaled by making cle
 One way this could be communicated is by saying "that boy looks like he also likes toy cars, you could play with him if you like".
 
 Communicating that it is not better to be liked by a larger number of people neglecting to consider whether one values them or not. The goal is not to be liked by whoever but find individuals one gets along with.
-While view two can be signaled in an infinite number of ways, it is most effective convey through reactions to real events.
+While view two can be signaled in an infinite number of ways, it is most effectively conveyed through reactions to real events.
 
 Consistency is also impactful and not contradicting it, by for example, agreeing with someone else sending a different message in front of the child.
 
-Consistently communicating message 2 to a child, can help them develop security in their self-perception and own intuition, making them less neurotic and laying the base for trust in themselves that can bring them stability through their whole lives.
+Consistently communicating message 2 to a child, can help them develop security in their self-perception and own intuition, making them less neurotic and laying the base for trust in themselves that can bring them stability throughout their whole lives.
 
 
 
