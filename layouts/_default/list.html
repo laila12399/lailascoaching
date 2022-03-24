@@ -24,10 +24,10 @@
 </div>
 {{- end }}
 
-{{- $pages := .RegularPages }}
+{{- $pages := where .RegularPages "Params.hidden" "ne" "true" }}
 
 {{- if .IsHome }}
-{{- $pages = site.RegularPages }}
+{{- $pages =  where site.RegularPages "Params.hidden" "ne" "true" }}
 {{- end }}
 
 {{- $paginator := .Paginate $pages }}
@@ -37,6 +37,7 @@
 {{- end }}
 
 {{- $term := .Data.Term }}
+
 {{- range $index, $page := $paginator.Pages }}
 
 {{- $class := "post-entry" }}
