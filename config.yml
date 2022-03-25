@@ -136,6 +136,10 @@ menu:
           name: Topics
           url: /topics/
           weight: 10
+        - identifier: 1on1coaching
+          name: '1-on-1 Coaching'
+          url: /1-on-1-coaching/
+          weight: 12          
         # - identifier: tags
          # name: tags
          # url: /tags/
