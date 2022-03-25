@@ -10,6 +10,6 @@ showtoc: false
 hidden: true
 ---
 
-## Thank you for your message!
+## Your message has been sent!
 I will get back to you as soon as I can.   
 - Laila
