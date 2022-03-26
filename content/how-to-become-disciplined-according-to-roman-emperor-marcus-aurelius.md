@@ -11,7 +11,7 @@ author: "Laila"
 ― Marcus Aurelius**
 
 
-This guide ― reviews Marcus Aurelius’ directions regarding self-control/ disciple ― for the intention of; *using what is in your control* and being able to *apply yourself to live life in line with what is most important to you*.
+This guide ― reviews Marcus Aurelius’ directions regarding self-control/ discipline ― for the intention of; *using what is in your control* and being able to *apply yourself to live life in line with what is most important to you*.
 
 
 ## :classical_building: Why listen to Marcus Aurelius?
@@ -44,12 +44,12 @@ His general philosophy can be categorized into these broad themes:
 
 :small_blue_diamond: Embracing nature and its course
 
-This guide will focus on his theories regarding disciple.
+This guide will focus on his theories regarding discipline.
 
 
-## :gear: Disciple Makes Your Life Easier
+## :gear: Discipline Makes Your Life Easier
 
-Why use disciple?
+Why use discipline?
 
 *“There were two vices much blacker and more serious than the rest: lack of persistence and lack of self-control… persist and resist.” ― Marcus Aurelius*
 
@@ -57,7 +57,7 @@ Mastering a degree of self-control allows one to use time in line with one’s p
 
 Ultimately, acting disciplined (in line with one’s long-term goals rather than chasing the closest dopamine hit) support a much more fulfilled life experience and a positive relationship with oneself and others.
 
-I have identified the following 4 themes in his work on disciple and self–mastery.
+I have identified the following 4 themes in his work on discipline and self–mastery.
 
 ## :pushpin: Focusing on What You Can Control
 
@@ -98,7 +98,9 @@ Part of his philosophy is to take responsibility for one’s own influence, rath
 It can be tempting to ascribe happenings to factors out of one’s control as this strips one of accountability.
 
 This does however make one a passive subject to external circumstances and eliminates the possibility for growth, advancement, or accountability.
+
 Refusing to accept one’s own influence is a way of life guided by fear and one incapable of progress, creativity, or contending. 
+
 Accepting one’s own control is a courageous way of taking responsibility and essential to be an active contender, that oneself and others can rely on. 
 
 *“True good fortune is what you make for yourself. Good fortune: good character, good intentions, good actions.” ― Marcus Aurelius*
@@ -115,14 +117,14 @@ The Mediation’s directions on emotional mastery can be placed into two themes:
 *“It’s all in how you perceive it. You’re in control. You can dispense with misperception at will, like rounding the point. Serenity, total calm, safe anchorage.“ ― Marcus Aurelius*
 
 
-Reminding oneself that there are very different angles to view a situation, struggle, or aim from.
+Reminding oneself that there are very different angles to view a situation, struggle, or aim.
 
 Regardless of the situation at focus, the likelihood is high that there are several contrasting perspectives to view it from.
 
-Felling into a different perspective often evokes and debunks emotions that might have been staggering in from one perspective. 
+Feeling into a different perspective often evokes and debunks emotions that might have been staggering from one perspective. 
 Changing perspective is a uniquely effective tool to discredit fear, anxieties, or temptations that might have been clouding one’s rational thinking.
 
-Aurelius also pushes the idea that changing perspective and not acting out of momentary emotion, puts oneself in control, rather than conditional on temporary perspectives.
+Aurelius also pushes the idea that changing perspective and not acting out of momentary emotion, puts oneself in control, rather than subject to temporary perspectives.
 
 ### :bulb: Taking Responsibility
 *“Today I escaped from anxiety. Or no, I discarded it, because it was within me, in my own perceptions; not outside.” ― Marcus Aurelius*
@@ -130,7 +132,7 @@ Aurelius also pushes the idea that changing perspective and not acting out of mo
 *“Reject your sense of injury and the injury itself disappears.” 
  ― Marcus Aurelius*
 
-Self-pity is temptation. Self-pity creates a narrative where one is the blameless victim sacrum to ruthless circumstances. It eliminates gratitude, resilience, or responsibility. 
+Self-pity is temptation. Self-pity creates a narrative where one is the blameless victim succumbed to ruthless circumstances. It eliminates gratitude, resilience, or responsibility. 
 
 “You don’t have to turn this into something. It doesn’t have to upset you.” – Marcus Aurelius
 
@@ -140,7 +142,7 @@ Learning to take responsibility for one’s reaction to external and internal oc
 *“If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.” 
  ― Marcus Aurelius*
 
-Taking responsibility in an emotional context can be practiced by asking oneself the following question when experiences emotional derailing:
+Taking responsibility in an emotional context can be practiced by asking oneself either of the following questions when experiencing emotional derailing:
 
 Would I tell someone I love that this emotional narrative is in line with their priorities?
 
@@ -149,7 +151,7 @@ Would I tell someone I love that this emotional narrative is in line with their 
 
 OR
 
-Is this emotional narrative motived by pain?
+Is this emotional narrative motivated by pain?
 
 **NO**→ then discard the emotion narrative and act out of rational intuition.
 **YES**→ then identify the thread, void, or opportunity behind the emotion and identify possible solutions.
@@ -169,11 +171,12 @@ Many argue one of the most fundamental components of self-control is not to be d
 
 ## :spoon: Practice Voluntary Hardship
 
-Marcus Aurelius suggests practicing voluntary hardship in order to build resilience.
+Marcus Aurelius suggests practicing voluntary hardship in order to build discipline.
 
 *"We should discipline ourselves in small things, and from their progress two things of greater value. If you have a headache practice not cursing" – "I am not saying that you can’t complain, only don’t complain with your whole being" ― Marcus Aurelius*
  
-The idea that disciple can be trained has been supported by research. If practicing voluntary hardship makes being disciplined easier in the future, it would certainly pay off and make it a reasonable exercise. For one this study found that having reaffirming experiences of, for example having practiced disciple, increases the likelihood of repeating this type of behavior in the future[^4],[^5].
+The idea that discipline can be trained has been supported by research. If practicing voluntary hardship makes being disciplined easier in the future, it would certainly pay off and make it a reasonable exercise. For one this study found that having reaffirming experiences of, for example having practiced discipline, increases the likelihood of repeating this type of behavior in the future[^4],[^5].
+
 Related: [How to 'Cure' Perfectionism](/how-to-cure-perfectionism/)
 
 
