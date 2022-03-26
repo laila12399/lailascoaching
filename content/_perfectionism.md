@@ -12,5 +12,5 @@ hidden: true
 
 * [How to 'Cure' Perfectionism](/how-to-cure-perfectionism/)
 * ['Advantages' and 'Disadvantages' of Perfectionism](/advantage-and-disadvantages-of-perfectionism/)
-* [Perfectionism vs Healthy Striving - According to Brené Brown](perfectionism-vs-healthy-striving-according-to-brene-brown/)
+* [Perfectionism vs Healthy Striving - According to Brené Brown](/perfectionism-vs-healthy-striving-according-to-brene-brown/)
 
