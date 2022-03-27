@@ -114,3 +114,16 @@ div.inner ul {
 div.inner ul li {
     list-style: none !important;
 }
+input {
+  background-color: #f0f0f0;
+  padding: 5px;
+}
+textarea {
+  background-color: #f0f0f0;
+  padding: 5px;
+}
+button.form {
+  background-color: #3897D3;
+  color: #f0f0f0;
+  padding:2px 10px;
+}
