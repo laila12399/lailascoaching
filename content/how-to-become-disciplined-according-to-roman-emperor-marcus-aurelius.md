@@ -7,7 +7,7 @@ cbreadcrumbs: ["Productivity"]
 author: "Laila"
 ---
 
-**“You have power over your mind - not outside events. Realize this, and you will find strength.” 
+**“What we do now echoes in eternity.” 
 ― Marcus Aurelius**
 
 
