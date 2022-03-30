@@ -7,7 +7,7 @@ cbreadcrumbs: ["Productivity"]
 author: "Laila"
 ---
 
-**“The secret of all victory lies in the organization of the non-obvious.” 
+**“What we do now echoes in eternity.” 
 ― Marcus Aurelius**
 
 

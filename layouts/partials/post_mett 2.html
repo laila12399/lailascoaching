@@ -1,0 +1,26 @@
+{{- $scratch := newScratch }}
+
+{{- with (partial "autht.html" .) }} 
+{{- $scratch.Add "meta" (slice .) }}
+{{- end }}
+
+{{- if not .Date.IsZero -}}
+{{- $scratch.Add "meta" (slice (.Date.Format (default "Jan 2, 2006" .Site.Params.DateFormat))) }}
+{{- end }}
+
+
+
+
+{{- with ($scratch.Get "meta") }}
+{{- delimit . "&nbsp;·&nbsp;Published&nbsp;" -}}
+{{- end -}}
+
+
+{{- if not .Lastmod.IsZero -}}
+{{- $pubdate := .Date.Format "Jan 2, 2006" }}
+{{- $lastmod := .Lastmod.Format "Jan 2, 2006" }}
+{{- if ne $lastmod $pubdate }}
+·&nbsp;Last updated:&nbsp;
+{{- print $lastmod -}}
+{{- end -}}
+{{- end -}}
