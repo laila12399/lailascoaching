@@ -10,9 +10,7 @@ author: "Laila"
 **“The secret of all victory lies in the organization of the non-obvious.” 
 ― Marcus Aurelius**
 
-
 This guide ― reviews Marcus Aurelius’ directions regarding self-control/ discipline ― for the intention of; *using what is in your control* and being able to *apply yourself to live life in line with what is most important to you*.
-
 
 ## :classical_building: Why listen to Marcus Aurelius?
 
@@ -182,13 +180,13 @@ Related: [How to 'Cure' Perfectionism](/how-to-cure-perfectionism/)
 
 References:
 
-[^1]: (Aurelius, 1558) https://www.amazon.co.uk/Meditations-Penguin-Classics-Marcus-Aurelius/dp/0140449337/ref=asc_df_0140449337/?tag=googshopuk-21&linkCode=df0&hvadid=310979557093&hvpos=&hvnetw=g&hvrand=16215904513639621915&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006886&hvtargid=pla-448425242835&psc=1&th=1&psc=1
+[^1]: (Aurelius, 1558) https://www.amazon.co.uk/Meditations-Penguin-Classics-Marcus-Aurelius/dp/0140449337/
 Jump back up to sentence in which this source was referenced:
 
-[^2]:  (McLynn, 2010) https://www.amazon.co.uk/Marcus-Aurelius-Warrior-Philosopher-Emperor/dp/1844135276/ref=sr_1_1?crid=3IEJ0N58AB4B6&keywords=marcus+aurelius+biography&qid=1647525193&sprefix=Marcus+aralius+b%2Caps%2C65&sr=8-1
+[^2]:  (McLynn, 2010) https://www.amazon.co.uk/Marcus-Aurelius-Warrior-Philosopher-Emperor/dp/1844135276/
  Jump back up to sentence in which this source was referenced:
 
-[^3]:  (Van Natta, 2019) https://www.amazon.co.uk/Beginners-Guide-Stoicism-Resilience-Positivity/dp/1641527218/ref=sr_1_5?crid=22CONOCO1KMGS&keywords=Stoicism&qid=1647525373&sprefix=stoicism%2Caps%2C118&sr=8-5
+[^3]:  (Van Natta, 2019) https://www.amazon.co.uk/Beginners-Guide-Stoicism-Resilience-Positivity/dp/1641527218/
  Jump back up to sentence in which this source was referenced:
 
 [^4]:  (Mercado et al., 1998) https://link.springer.com/article/10.3758/BF03199213
@@ -197,5 +195,4 @@ Jump back up to sentence in which this source was referenced:
 [^5]:  (Colombetti & Dorigo, 1994) https://journals.sagepub.com/doi/abs/10.1177/105971239400200302
   Jump back up to sentence in which this source was referenced:
 
-[^2]:  ()  Jump back up to sentence in which this source was referenced:
 

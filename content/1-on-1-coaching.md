@@ -8,6 +8,6 @@ author: "-"
 showtoc: false
 hidden: true
 ---
-Use this form if you would like to arrange a 1-on-1 coaching session with me. My current rate: $30/30m, $50/hr. 
+Use this form if you would like to arrange a 1-on-1 phone coaching session with me. My current rate is $30/30m, $50/hr. 
 
 {{< oneononeform >}}

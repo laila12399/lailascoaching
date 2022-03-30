@@ -3,13 +3,14 @@
     {{- $url := replace .Parent.Permalink (printf "%s" .Site.BaseURL) "" }}
     {{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url -}}
     <a href="{{ "" | absLangURL }}">{{ i18n "home" | default "Home" }}</a>
-    {{ if not (eq .Title "Topics") }}
-    {{ if not (eq .Title "About") }}
-    {{ if not (eq .Title "1-one-1 Coaching") }}
+    {{ if .Params.hidden }}
+        {{ gt (.Params.hidden) }}
+        {{ if ".Params.hidden" "true" }}
+         {{ end }}
+    {{ else }}
     &nbsp;»&nbsp; <a href="{{ "" | absLangURL }}topics/">Topics</a>
     {{ end }}
-    {{ end }}
-    {{ end }}
+
         {{ if .Params.cbreadcrumbs }}
         {{ if gt (len .Params.cbreadcrumbs) 0 }}  {{ end }} 
         {{ range $cbreadcrumbs := .Params.cbreadcrumbs }}{{ if gt $cbreadcrumbs 0 }}, {{ end }} &nbsp;»&nbsp; <a href="{{ "" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
