@@ -1,7 +1,7 @@
 ---
 title: "Overcome Perfectionism Procrastination With Psychology"
-date: 2022-03-31T215:30:28+01:00
-lastmod: 2022-03-31T215:30:28+01:00
+date: 2022-03-31T15:30:01+01:00
+lastmod: 2022-03-31T21:56:01+01:00
 draft: false
 cbreadcrumbs: ["Perfectionism"]
 author: "Laila"
@@ -13,12 +13,17 @@ As discussed in [How to 'Cure' Perfectionism](/how-to-cure-perfectionism/) perfe
 
 I have done hundreds of hours of research and found the best strategy to contain these six components:
 
-⁃	How you are ahead
-⁃	Dichotomy of control
-⁃	SMART goal
-⁃	Divide into chunks
-⁃	Sufficient post chunk dopamine hit
-⁃	Aim to create a bad draft first
+:small_blue_diamond:	How you are ahead
+
+:small_blue_diamond:	Dichotomy of control
+
+:small_blue_diamond:	SMART goal
+
+:small_blue_diamond:	Divide into chunks
+
+:small_blue_diamond:	Sufficient post chunk dopamine hit
+
+:small_blue_diamond:	Aim to create a bad draft first
 
 
 ## :door: Emotional Threshold
@@ -119,12 +124,14 @@ An effective way to counter an ‘overwhelmed’ or maybe better, ‘demotivatin
 ### :bust_in_silhouette: Calvin
 
 For creating chunks that are likely to be completed consistently, here is a mental image to think back to:
+
 ---
 *Imagine that you find it in your interest to employ your associate’s kid Calvin, at your company. 
 
 Calvin, however, is overly distractable, lazy, undermotivated, and takes every opportunity to waste time.
 
 There is no question that you can get him to do what you need him to do, it is only a matter of **motivation**.*
+
 ---
 
 When facing a task, think, how could I get Calvin to get this done?
@@ -174,13 +181,14 @@ The intention should be to use the completed task as a stepping stone on the roa
 One helpful thing to consider is that it is a lot easier to turn a bad thing into a great thing than to create a great thing from scratch.
 
 The draft uses the motivating *ahead* perspective, furthermore, increasing the likelihood that Calvin will work more effectively.
+
 ---
 Utilizing this strategy, a number of times will create positive reaffirming experiences of successfully realizing aspirations, making it easier to set and reach goals in the future and debunking the fear of not being able to apply oneself the way one could.
+
 ---
 Related: ['Advantages' and 'Disadvantages' of Perfectionism](/advantage-and-disadvantages-of-perfectionism/)
 
 References:
-(Kim, 2019)
 
 [^1]:  (Kim, 2019) https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09283231
    Jump back up to sentence in which this source was referenced:
