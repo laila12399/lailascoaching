@@ -9,7 +9,7 @@ author: "Laila"
 
 **Can you train Perfectionism Procrastination out of yourself?**
 
-As discussed in the guide '[How to 'Cure' Perfectionism](/how-to-cure-perfectionism/)', perfectionists are prone to push off task completion by indirectly procrastinating, for example, over-focusing on a not important related task, or directly procrastinating by postponing progress to conditions which might be *ever so slightly helpful*.
+As discussed in the guide '[How to 'Cure' Perfectionism](/how-to-cure-perfectionism/)', perfectionists are prone to push off task completion by indirectly procrastinating, by for example over-focusing on a not important related task, or directly procrastinating by postponing progress to conditions which might be *ever so slightly helpful*.
 
 I combined the most effective psychology tools in research to create a six-step strategy for overcoming Perfectionism Procrastination. Here are its six components:
 
@@ -35,7 +35,7 @@ It can be more difficult to complete a task once one has previously failed to ta
 The memory of not taking an opportunity to complete the task could be reenforcing the subconscious fear that one is not able to apply oneself in the way desired, as well as creating the demotivating feeling of being ‘behind’ progress that you could already have done. 
 
 
-This build-up emotional threshold is a common phenomenon, is no reason for discouragement, if anything it can fuel your desire to overcome it and add to your sense of achievement when having done so. 
+This build-up emotional threshold is a common phenomenon. It is no reason for discouragement, if anything it can fuel your desire to overcome it and add to your sense of achievement when having done so. 
 
 
 As demonstrated in [How to 'Cure' Perfectionism](/how-to-cure-perfectionism/) perfectionism procrastination is the manifestation of amplified underlying emotional barriers.
