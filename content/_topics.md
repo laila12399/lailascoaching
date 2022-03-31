@@ -14,6 +14,8 @@ hidden: true
 1. [How to 'Cure' Perfectionism](/how-to-cure-perfectionism/)
 2. ['Advantages' and 'Disadvantages' of Perfectionism](/advantage-and-disadvantages-of-perfectionism/)
 3. [Perfectionism vs Healthy Striving- According to Brené Brown](/perfectionism-vs-healthy-striving-according-to-brene-brown/)
+4. [Overcome Perfectionism Procrastination With Psychology](/overcome-perfectionism-procrastination-with-psychology/)
+
 
 * [Bullying](/bullying/)
 1. [How to Overcome Bullying Trauma](/how-to-overcome-bullying-trauma/)
