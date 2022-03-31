@@ -126,11 +126,11 @@ An effective way to counter an ‘overwhelmed’ or maybe better, ‘demotivatin
 For creating chunks that are likely to be completed consistently, here is a mental image to think back to:
 
 ---
-*Imagine that you find it in your interest to employ your associate’s kid Calvin, at your company. 
+*Imagine that you find it in your interest to employ your associate’s kid Calvin, at your company.* 
 
-Calvin, however, is overly distractable, lazy, undermotivated, and takes every opportunity to waste time.
+*Calvin, however, is overly distractable, lazy, undermotivated, and takes every opportunity to waste time.*
 
-There is no question that you can get him to do what you need him to do, it is only a matter of **motivation**.*
+*There is no question that you can get him to do what you need him to do, it is only a matter of **motivation**.*
 
 ---
 
