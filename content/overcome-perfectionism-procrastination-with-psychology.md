@@ -170,7 +170,7 @@ Just look at the way barristers work to keep a station clean that isn’t even t
 
 To utilize this, let another person in on your past struggles and make an agreement with them where you regularly inform them of your intended progress, and they check on you at agreed times.
 
-## :Crayon: Aim to Create a ‘Draft’ (Make Calvin Work Effectively)
+## :crayon: Aim to Create a ‘Draft’ (Make Calvin Work Effectively)
 
 Remembering that ‘Calvin’ is prone to waste time and overfocus on less important parts of a task in order to postpone progress, reduce this by aiming to create a rough draft of the task first. Once the draft has been created, it is much easier to efficiently create a finished product. It is easier to fill in the blanks than to create a new picture.
 
