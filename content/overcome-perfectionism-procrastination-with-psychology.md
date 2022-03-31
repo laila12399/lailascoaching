@@ -11,7 +11,7 @@ author: "Laila"
 
 As discussed in [How to 'Cure' Perfectionism](/how-to-cure-perfectionism/) perfectionists are prone to push off task completion by indirectly procrastinating, for example, over-focusing on a not important related task, or directly procrastinating by for example postponing progress to conditions which might be ever so slightly helpful.
 
-I have done hundreds of hours of research and found the best strategy to contain these six components:
+I have done hundreds of hours of research and used the most effective tools to formulate a strategy, with six components:
 
 :small_blue_diamond:	How you are ahead
 
