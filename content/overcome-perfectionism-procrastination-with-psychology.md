@@ -116,7 +116,7 @@ It is the outlook of primarily unrewarding tasks in the foreseeable future, and 
 
 This could be compared to a pupil spending an excessive amount of time on a redundant illustration in their notebook in order to push off writing the accompanying essay.
 
-Now image, that pupil was told they only had to write 4 more sentences and they would be finished. The likelihood that the pupil would continue to overfocus on the redundant illustration is unlikely. They would be more likely to abandon the illustration and efficiently write the remaining 4 sentences. 
+Now imagine, that pupil was told they only had to write 4 more sentences and they would be finished. The likelihood that the pupil would continue to overfocus on the redundant illustration is unlikely. They would be more likely to abandon the illustration and efficiently write the remaining 4 sentences. 
 
 
 An effective way to counter an ‘overwhelmed’ or maybe better, ‘demotivating long’ outlook completing low reward tasks, is to divide the task at focus into smaller chunks.
