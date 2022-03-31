@@ -156,11 +156,11 @@ An easy way to chunk is to use a time limit for which you are ‘allowed’ to c
 
 ## :carrot: Sufficient Post Chunk Dopamine Hit (Motivate Calvin)
 
-After having created bitesize chunks that are resorbable for Calving to consistently complete, create sufficient motivation for Calvin. 
+After having created bitesize chunks that are reasonable for Calving to consistently complete, create sufficient motivation for Calvin. 
 
 You can come up with variations for dopamine carrots on a stick, and test which one(s) successfully get you to complete chunks.
 
-For example, you can set a rule where you pick a movie you are only allowed to watch after competing the chunk. 
+For example, you can set a rule where you pick a movie you are only allowed to watch after completing the chunk. 
 
 You can also use supervision in the form of an accountability buddy.
 
@@ -170,9 +170,9 @@ Just look at the way barristers work to keep a station clean that isn’t even t
 
 To utilize this, let another person in on your past struggles and make an agreement with them where you regularly inform them of your intended progress, and they check on you at agreed times.
 
-## :crayon: Aim to create a ‘draft’ (make Calvin work effectively)
+## :Crayon: Aim to Create a ‘Draft’ (Make Calvin Work Effectively)
 
-Remembering that ‘Calvin’ is prone to waste time and overfocus on less important parts of a task in order to postpone progress, reduce this by aiming to create a rough draft of the task first. Once the draft has been created, it is much easier to efficiently create a finished product. It is easier to fill in the banks than to create a new picture.
+Remembering that ‘Calvin’ is prone to waste time and overfocus on less important parts of a task in order to postpone progress, reduce this by aiming to create a rough draft of the task first. Once the draft has been created, it is much easier to efficiently create a finished product. It is easier to fill in the blanks than to create a new picture.
 
 One’s attitude should be adjusted. Instead of viewing tasks as a final assessment of undevelopable abilities, the goal should be to complete the at hand task as a draft.
 
