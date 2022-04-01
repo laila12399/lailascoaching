@@ -31,6 +31,7 @@ params:
     DateFormat: "Jan 2, 2006"
     LastmodFormat: "Jan 2, 2006"
     cbreadcrumbs: ""
+    noindex: ""
     defaultTheme: dark ## auto # dark, light
     disableThemeToggle: false
 
