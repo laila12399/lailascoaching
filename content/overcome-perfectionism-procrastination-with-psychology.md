@@ -11,7 +11,7 @@ author: "Laila"
 
 As discussed in the guide '[Root Cause of Perfectionism](/root-cause-of-perfectionism/)', perfectionists are prone to push off task completion by indirectly procrastinating, by for example over-focusing on a not important related task, or directly procrastinating by postponing progress to conditions which might be *ever so slightly helpful*.
 
-I combined the most effective supported psychology tools in research to create a strategy for overcoming Perfectionism Procrastination. Here are its six components:
+I combined the most effective psychology tools in research to create a strategy for overcoming Perfectionism Procrastination. Here are its six components:
 
 :small_blue_diamond:	How you are ahead
 
