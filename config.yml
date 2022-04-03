@@ -1,6 +1,6 @@
 baseURL: "https://lailascoaching.com/"
 
-languageCode: en-us
+languageCode: "en-US"
 title: "Laila's Coaching.com"
 paginate: 5
 theme: PaperMod
@@ -11,7 +11,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+# googleAnalytics: UA-123-45
 
 minify:
     disableXML: true
@@ -22,10 +22,10 @@ enableEmoji: true
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: ExampleSite
-    description: "ExampleSite description"
-    keywords: [Blog, Portfolio, PaperMod]
-    author: Laila
+    title: "Laila's Coaching.com"
+    description: "On my website you find my articles and my guides regarding psychological aspects of our lives. My posts focus on the topics perfectionism, productivity and bullying."
+    keywords: ["Laila's Coaching", "Laila", "Coaching", "Psychology", "Psychological guides", "Perfectionism", "Productivity", "Bullying"]
+    author: "Laila"
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "Jan 2, 2006"
@@ -99,13 +99,13 @@ params:
        # - name: github
        #   url: "https://github.com/"
 
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
-        bing:
-            SiteVerificationTag: "XYZabc"
-        yandex:
-            SiteVerificationTag: "XYZabc"
+    # analytics:
+        # google:
+            # SiteVerificationTag: "XYZabc"
+        # bing:
+            # SiteVerificationTag: "XYZabc"
+        # yandex:
+            # SiteVerificationTag: "XYZabc"
 
     cover:
         hidden: true # hide everywhere but not in structured data
