@@ -7,11 +7,11 @@ cbreadcrumbs: ["Perfectionism"]
 author: "Laila"
 ---
 
-**Can you train Perfectionism Procrastination out of yourself?**
+**What are the most research-supported defenses against Perfectionism and its procrastinating tendencies?**
 
-As discussed in the guide '[How to 'Cure' Perfectionism](/how-to-cure-perfectionism/)', perfectionists are prone to push off task completion by indirectly procrastinating, by for example over-focusing on a not important related task, or directly procrastinating by postponing progress to conditions which might be *ever so slightly helpful*.
+As discussed in the guide '[Root Cause of Perfectionism](/root-cause-of-perfectionism/)', perfectionists are prone to push off task completion by indirectly procrastinating, by for example over-focusing on a not important related task, or directly procrastinating by postponing progress to conditions which might be *ever so slightly helpful*.
 
-I combined the most effective proven psychology tools in research to create a strategy for overcoming Perfectionism Procrastination. Here are its six components:
+I combined the most effective supported psychology tools in research to create a strategy for overcoming Perfectionism Procrastination. Here are its six components:
 
 :small_blue_diamond:	How you are ahead
 
