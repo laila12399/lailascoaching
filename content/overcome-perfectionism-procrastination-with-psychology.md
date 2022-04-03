@@ -1,7 +1,7 @@
 ---
 title: "Overcome Perfectionism Procrastination With Psychology"
 date: 2022-03-31T15:30:01+01:00
-lastmod: 2022-03-31T21:56:01+01:00
+lastmod: 2022-04-03T11:38:01+01:00
 draft: false
 cbreadcrumbs: ["Perfectionism"]
 author: "Laila"
@@ -11,7 +11,7 @@ author: "Laila"
 
 As discussed in the guide '[How to 'Cure' Perfectionism](/how-to-cure-perfectionism/)', perfectionists are prone to push off task completion by indirectly procrastinating, by for example over-focusing on a not important related task, or directly procrastinating by postponing progress to conditions which might be *ever so slightly helpful*.
 
-I combined the most effective psychology tools in research to create a six-step strategy for overcoming Perfectionism Procrastination. Here are its six components:
+I combined the most effective proven psychology tools in research to create a strategy for overcoming Perfectionism Procrastination. Here are its six components:
 
 :small_blue_diamond:	How you are ahead
 
@@ -56,11 +56,11 @@ The feeling of having some kind of an advantage over others or compared to a les
 
 One way to utilize this powerful method of motivation is to reinforce to yourself how you are *ahead*. Whatever the task at focus,  likelihood has it that you are ahead from a number of perspectives. 
 
-This could be from the perspective of millions of humans throughout history (who were physically identical to you). 
+This could be from the perspective of millions of humans throughout history. 
 
 Or a possible version of yourself, had you gone down a less helpful path (like many others in similar positions, likely will have). 
 
-You can reinforce to yourself how you are *ahead* in your ability to successfully have overcome hurdles and reached where you are today, although others facing the same obstructing and lack of facilitating factors would have not gotten anywhere close to where you are today.  You might have prospered in the face of systems stacked against you, the absence of mentors to guide you, or loved ones you had to provide for.
+You can reinforce to yourself how you are *Superior* in your ability and ressielicne to successfully have overcome hurdles and reached where you are today, although others facing the same obstructing and lack of facilitating factors would have not gotten anywhere close to where you are today.  You might have prospered in the face of systems stacked against you, the absence of mentors to guide you, or loved ones you had to provide for.
 
 Identify three perspectives from which you are *ahead* and note them to yourself.
 
@@ -119,7 +119,7 @@ This could be compared to a pupil spending an excessive amount of time on a redu
 Now imagine, that pupil was told they only had to write 4 more sentences and they would be finished. The likelihood that the pupil would continue to overfocus on the redundant illustration is unlikely. They would be more likely to abandon the illustration and efficiently write the remaining 4 sentences. 
 
 
-An effective way to counter an ‘overwhelmed’ or maybe better, ‘demotivating long’ outlook completing low reward tasks, is to divide the task at focus into smaller chunks.
+An effective way to counter an ‘overwhelmed’ or maybe better descibed, ‘demotivating long’ outlook completing low reward tasks, is to divide the task at focus into smaller chunks.
 
 ### :bust_in_silhouette: Calvin
 
@@ -174,11 +174,14 @@ To utilize this, let another person in on your past struggles and make an agreem
 
 Remembering that ‘Calvin’ is prone to waste time and overfocus on less important parts of a task in order to postpone progress, reduce this by aiming to create a rough draft of the task first. Once the draft has been created, it is much easier to efficiently create a finished product. It is easier to fill in the blanks than to create a new picture.
 
+
 One’s attitude should be adjusted. Instead of viewing tasks as a final assessment of undevelopable abilities, the goal should be to complete the at hand task as a draft.
 
 The intention should be to use the completed task as a stepping stone on the road to improving one’s ability to perform this task. The focus should be on completing the task and revising the result in order to get better at this task.
 
+
 One helpful thing to consider is that it is a lot easier to turn a bad thing into a great thing than to create a great thing from scratch.
+
 
 The draft uses the motivating *ahead* perspective, furthermore, increasing the likelihood that Calvin will work more effectively.
 
