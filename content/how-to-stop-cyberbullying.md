@@ -1,5 +1,5 @@
 ---
-title: "How to stop Cyberbullying"
+title: "How to Stop Cyberbullying"
 date: 2022-09-26T22:33:01+01:00
 lastmod: 2022-09-27T10:05:01+01:00
 draft: false
