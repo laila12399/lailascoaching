@@ -2,7 +2,7 @@
 title: "Topics"
 author: "-"
 date: 2021-11-28T18:22:52+01:00
-lastmod: 2022-04-04T11:36:01+01:00
+lastmod: 2022-11-03T14:53:01+01:00
 hidemeta: true
 draft: false
 url: "/topics/"
@@ -28,3 +28,4 @@ hidden: true
 
 * [Productivity](/productivity/)
 1. [How to Become Disciplined According to Roman Emperor Marcus Aurelius](/how-to-become-disciplined-according-to-roman-emperor-marcus-aurelius/)
+2. [How to Train Emotions](/How-to-train-emotions/)
