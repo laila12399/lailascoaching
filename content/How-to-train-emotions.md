@@ -129,6 +129,8 @@ Say, for example, your newly designed pattern requires too much willpower to be 
 
 Therefore, the most effective way to design a new emotional reaction pattern is in such a way that it deals with the underlying emotions, strategically rather than relying on willpower. 
 
+Identify the underlying emotions that drove the old patterns and incorporate these in an action plan.
+
 For someone who recognized, for example, that their pattern is to react to a triggering emotion with self-doubting catastrophizing spirals, it would be strategically effective to instead respond with a hope-inducing activity. 
 
 ### :diamond_shape_with_a_dot_inside: Reaffirm New Emotional Reaction Pattern
