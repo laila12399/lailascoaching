@@ -2,7 +2,7 @@
 title: "Topics"
 author: "-"
 date: 2021-11-28T18:22:52+01:00
-lastmod: 2022-11-03T14:53:01+01:00
+lastmod: 2022-12-12T13:41:00+01:00
 hidemeta: true
 draft: false
 url: "/topics/"
@@ -16,6 +16,7 @@ hidden: true
 3. [Perfectionism vs Healthy Striving- According to Brené Brown](/perfectionism-vs-healthy-striving-according-to-brene-brown/)
 4. [Overcome Perfectionism Procrastination With Psychology](/overcome-perfectionism-procrastination-with-psychology/)
 5. [The Relationship Between Perfectionism and Anxiety](/the-relationship-between-perfectionism-and-anxiety/)
+6. [How to Become Efficient as a Perfectionist](How-to-become-efficient-as-a-perfectionist)
 
 
 * [Bullying](/bullying/)
