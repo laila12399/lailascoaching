@@ -42,7 +42,7 @@ Healthy perfectionists generally had high scores in perfectionistic strivings (i
 
 ---
 
-“Perfectionistic strivings in themselves are not only normal, but maybe positive-if only perfectionists could focus on doing their best rather than worrying about mistakes, enjoy striving for perfection rather than being afraid of failing short of it, and concentrate on what has been achieved rather than pondering the discrepancy between what has been achieved and what might have been achieved if everything had worked out perfectly. In this form, perfectionism would be a perfectly positive disposition.” [^3]
+“Perfectionistic strivings in themselves are not only normal, but maybe positive-if only perfectionists could focus on doing their best rather than worrying about mistakes, enjoy striving for perfection rather than being afraid of falling short of it, and concentrate on what has been achieved rather than pondering the discrepancy between what has been achieved and what might have been achieved if everything had worked out perfectly. In this form, perfectionism would be a perfectly positive disposition.” [^3]
 
 ---
 
