@@ -7,7 +7,9 @@ cbreadcrumbs: ["Bullying"]
 author: "Laila"
 ---
 
-**Is the most devastating impact of being bullied based on a false conclusion? There's a tendency for bullying victims to grossly misinterpret the reason for being bullied, seriously impacting their life experience.**
+**Is the most devastating impact of being bullied based on a false conclusion?.**
+
+*There's a tendency for bullying victims to grossly misinterpret the reason for being bullied, seriously impacting their life experience*
 
 
 One of the most devastating consequences the bullying victim may suffer is the belief that they deserve to be bullied. Bullying victims report feeling shame for being bullied [^6] and attribute it to a fault or lacking in themselves.
