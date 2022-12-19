@@ -2,7 +2,7 @@
 title: "Topics"
 author: "-"
 date: 2021-11-28T18:22:52+01:00
-lastmod: 2022-12-12T13:41:00+01:00
+lastmod: 2022-12-19T15:49:00+01:00
 hidemeta: true
 draft: false
 url: "/topics/"
@@ -16,7 +16,7 @@ hidden: true
 3. [Perfectionism vs Healthy Striving- According to Brené Brown](/perfectionism-vs-healthy-striving-according-to-brene-brown/)
 4. [Overcome Perfectionism Procrastination With Psychology](/overcome-perfectionism-procrastination-with-psychology/)
 5. [The Relationship Between Perfectionism and Anxiety](/the-relationship-between-perfectionism-and-anxiety/)
-6. [How to Become Efficient as a Perfectionist](How-to-become-efficient-as-a-perfectionist)
+6. [How to Become Efficient as a Perfectionist](how-to-become-efficient-as-a-perfectionist)
 
 
 * [Bullying](/bullying/)
@@ -26,7 +26,8 @@ hidden: true
 4. [How to React to Bullies at School](/how-to-react-to-bullies-at-school/)
 5. [How to Protect From School Bullying & Bully-Proof Your Child](/how-to-protect-from-school-bullying-and-bully-proof-your-child/)
 6. [How to Stop Cyberbullying](/how-to-stop-cyberbullying/)
+7. [Why do people Bully](/why-do-people-bully/)
 
 * [Productivity](/productivity/)
 1. [How to Become Disciplined According to Roman Emperor Marcus Aurelius](/how-to-become-disciplined-according-to-roman-emperor-marcus-aurelius/)
-2. [How to Train Emotions](/How-to-train-emotions/)
+2. [How to Train Emotions](/how-to-train-emotions/)

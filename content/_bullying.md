@@ -2,7 +2,7 @@
 title: "Bullying"
 author: "-"
 date: 2021-11-28T18:22:52+01:00
-lastmod: 2022-03-11T11:14:45+01:00
+lastmod: 2022-12-19T15:49:00+01:00
 hidemeta: true 
 draft: false
 url: "/bullying/"
@@ -16,4 +16,4 @@ hidden: true
 * [How to React to Bullies at School](/how-to-react-to-bullies-at-school/)
 * [How to Protect From School Bullying & Bully-Proof Your Child](/how-to-protect-from-school-bullying-and-bully-proof-your-child/)
 * [How to Stop Cyberbullying](/how-to-stop-cyberbullying/)
-
+* [Why do people Bully](/why-do-people-bully/)
