@@ -15,4 +15,4 @@ hidden: true
 * [Perfectionism vs Healthy Striving - According to Brené Brown](/perfectionism-vs-healthy-striving-according-to-brene-brown/)
 * [Overcome Perfectionism Procrastination With Psychology](/overcome-perfectionism-procrastination-with-psychology/)
 * [The Relationship Between Perfectionism and Anxiety](/the-relationship-between-perfectionism-and-anxiety/)
-* [How to Become Efficient as a Perfectionist](how-to-become-efficient-as-a-perfectionist)
+* [How to Become Efficient as a Perfectionist](/how-to-become-efficient-as-a-perfectionist/)
