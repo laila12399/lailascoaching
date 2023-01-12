@@ -42,7 +42,7 @@ Healthy perfectionists generally had high scores in perfectionistic strivings (i
 
 ---
 
-“Perfectionistic strivings in themselves are not only normal, but maybe positive-if only perfectionists could focus on doing their best rather than worrying about mistakes, enjoy striving for perfection rather than being afraid of falling short of it, and concentrate on what has been achieved rather than pondering the discrepancy between what has been achieved and what might have been achieved if everything had worked out perfectly. In this form, perfectionism would be a perfectly positive disposition.” [^3]
+“Perfectionistic strivings in themselves are not only normal, but maybe positive-if only perfectionists could focus on doing their best rather than worrying about mistakes, enjoy striving for perfection rather than being afraid of failing short of it, and concentrate on what has been achieved rather than pondering the discrepancy between what has been achieved and what might have been achieved if everything had worked out perfectly. In this form, perfectionism would be a perfectly positive disposition.” [^3]
 
 ---
 
@@ -56,7 +56,7 @@ Although perfectionism is also linked to counterproductive behavior, the underly
 
 Having a high locus of control (believing that one has influence over outcomes) has often been categorized as a positive characteristic. 
 
-A higher internal locus of control (the extent to which they believe they have influence over a situation) is more likely in people with perfectionism [^17]. This suggests that a high locus of control is linked to the root of perfectionism.
+A higher internal locus of control (the extent to which they believe they have influence over a situation) is more likely in people with perfectionism [^15]. This suggests that a high locus of control is linked to the root of perfectionism.
 
 Perfectionistic strivings have been shown to be related to a *lower* external locus of control- meaning that they were shown to be less likely to believe that their lives are controlled by chance [^4].
 
@@ -85,7 +85,7 @@ Being able to set goals for oneself is itself already a challenge overcome. Sett
 
 Perfectionistic strivings have been linked to higher rates of goal setting[^16]. 
 
-Perfectionists have been shown to have higher rates of goal commitment than non-perfectionists[^15].
+Perfectionists have been shown to have higher rates of goal commitment than non-perfectionists[^17].
 
 For the unhealthy perfectionist, the ability to set high goals for themselves might be misdirected in combination with low self-efficacy (doubt in own capacity to act in the ways necessary to reach specific goals). 
 For the unhealthy perfectionist, these might have fuelled an emotional barrier stemming from the fear of not immediately meeting the goals like a home run and thereby confirming their fear of not being able to apply their abilities. 
@@ -211,11 +211,11 @@ References
 
 [^14]: (Higgins, 1997) https://psycnet.apa.org/doiLanding?doi=10.1037%2F0003-066X.52.12.1280    Jump back up to sentence in which this source was referenced:
 
-[^15]: (Flett et al., 1995) https://link.springer.com/article/10.1007/BF02229013   Jump back up to sentence in which this source was referenced:
+[^15]: (Kıral, 2015) https://www.sciencedirect.com/science/article/pii/S1877042815011891/   Jump back up to sentence in which this source was referenced:
 
 [^16]: (Diamond et al., 2012) https://www.researchgate.net/publication/269600408_Perfectionism_and_Goal_Setting_Behaviors_Optimizing_Opportunities_for_Success_and_Avoiding_the_Potential_for_Failure   Jump back up to sentence in which this source was referenced:
 
-[^17]: (Kıral, 2015) https://www.sciencedirect.com/science/article/pii/S1877042815011891/   Jump back up to sentence in which this source was referenced:
+[^17]: (Flett et al., 1995) https://link.springer.com/article/10.1007/BF02229013   Jump back up to sentence in which this source was referenced:
 
 [^18]:    Jump back up to sentence in which this source was referenced:
 

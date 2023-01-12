@@ -8,9 +8,6 @@ draft: false
 url: "/thank-you/"
 showtoc: false
 hidden: true
-_build:
-  list: never
-noindex: true 
 ---
 
 ## Your message has been sent!
