@@ -209,7 +209,6 @@ Leatning to do this is connected to the ability to learn ongoingly and a decreas
 
 References
 
----
 [^1]: (Javarone, 2014) https://www.sciencedirect.com/science/article/pii/S0378437114005871   Jump back up to sentence in which this source was referenced:
 [^2]: (Coultas & van Leeuwen, 2015) https://link.springer.com/chapter/10.1007/978-3-319-12697-5_15   Jump back up to sentence in which this source was referenced:
 [^3]: (Allen, 2020) https://link.springer.com/chapter/10.1007/978-3-030-36822-7_3   Jump back up to sentence in which this source was referenced:
