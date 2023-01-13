@@ -22,7 +22,7 @@ The phenomenon of people adapting to a group of people they identify with has of
 ## :hammer_and_pick: The Nail That Sticks Out Gets Hammered
 Some evidence suggests that humans might have evolutionarily benefited from a predisposition to conformity[^2]. 
 
-During evolutionary times, your ability to survive would have been directly dependent on a group of people. Questing or challenging the group’s way of thinking would drastically lower your chances of survival. 
+During evolutionary times, your ability to survive would have been directly dependent on a group of people. Questioning or challenging the group’s way of thinking would drastically lower your chances of survival. 
 
 Individuals with groupthink would have had the ability to follow along with the group's way of thinking and behaving, increasing their chances of survival. 
 
