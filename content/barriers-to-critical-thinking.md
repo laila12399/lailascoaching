@@ -2,7 +2,7 @@
 title: "Barriers to Critical Thinking"
 date: 2023-01-12T15:49:00+01:00
 lastmod: 2023-01-12T15:49:00+01:00
-draft: true
+draft: 
 cbreadcrumbs: ["Productivity"]
 author: "Laila"
 ---
