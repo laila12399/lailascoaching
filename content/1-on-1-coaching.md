@@ -8,6 +8,12 @@ author: "-"
 showtoc: false
 hidden: true
 ---
-Use this form if you would like to arrange a 1-on-1 phone coaching session with me. My current rate is $30/30m, $50/hr. 
+Use this form if you would like to arrange a 1-on-1 coaching call with me. First 30m call is free of charge.
 
-{{< oneononeform >}}
+I am currently helping people as: 
+1) Accountability & Productivity Coach
+2) Rebious Teen Coach
+3) Perfectionism & effcientcy Coach
+4) Bullying Coach
+
+{{< contactformone >}}
