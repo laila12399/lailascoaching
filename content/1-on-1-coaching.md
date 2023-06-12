@@ -14,9 +14,9 @@ Use this form if you would like to arrange a 1-on-1 coaching call with me.
 ***First 30m call is free of charge.***
 
 **I Am Currently Coaching in 4 Areas:**
-1) Accountability & Productivity
-2) Rebious Teens
-3) Perfectionism & Effcientcy 
-4) Bullying 
+1) Accountability & Productivity (sounds small but can can transform your daily life)
+3) Rebious Teens (for your teen or you the parent)
+4) Perfectionism & Effcientcy (Most popular🔥)
+5) Bullying (for yor fast or current experinces)
 
 {{< contactformone >}}
