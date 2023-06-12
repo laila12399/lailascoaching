@@ -8,7 +8,7 @@
     Your first fame<br />
     <textarea name="message" rows="1" cols="20"></textarea>
   </label><br />
-    Which area ould you like to address?<br />
+    Which area would you like to address?<br />
     <textarea name="message" rows="3" cols="36"></textarea>
   </label><br />
   <!-- your other form fields go here -->
