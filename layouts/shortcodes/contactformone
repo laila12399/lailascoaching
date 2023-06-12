@@ -5,13 +5,10 @@
   </label>
   <br /><br />
   <label>
-    First Name<br />
-    <textarea name="message" rows="3" cols="36"></textarea>
+    Your first fame<br />
+    <textarea name="message" rows="1" cols="20"></textarea>
   </label><br />
-    Which area of your life would you like to address??<br />
-    <textarea name="message" rows="3" cols="36"></textarea>
-  </label><br />
-    Your Email<br />
+    Which area ould you like to address?<br />
     <textarea name="message" rows="3" cols="36"></textarea>
   </label><br />
   <!-- your other form fields go here -->
