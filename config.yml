@@ -127,6 +127,10 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
+        
+        [params]
+        talkyardServerUrl = "https://site-1507arosof.talkyard.net"
+        talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
 menu:
     main:
         - identifier: about
