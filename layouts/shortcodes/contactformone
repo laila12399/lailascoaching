@@ -5,7 +5,7 @@
   </label>
   <br /><br />
   <label>
-    Your first fame<br />
+    Your first name<br />
     <textarea name="message" rows="1" cols="20"></textarea>
   </label><br />
     Which area would you like to address?<br />
