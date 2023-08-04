@@ -7,7 +7,7 @@ cbreadcrumbs: ["Narcissism"]
 author: "Laila"
 ---
 
-**Narcissistic abuse has been shown to have serious long-lasting impacts, yet most victims are not aware it is happening [^1]**
+**Although narcissistic abuse can have serious long-lasting impacts, most victims are not aware it is happening [^1]**
 
 *Narcissistic abuse is a form of emotional mistreatment and manipulation carried out by a person with narcissistic traits or narcissistic personality disorder. Recognizing narcissistic abuse can help protect from suffering the negative impacts and falling prey to manipulation.*
 
