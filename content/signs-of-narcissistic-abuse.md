@@ -80,5 +80,5 @@ References
 
 [^3]: (Price et al., 2019) https://osf.io/6vjzk/download Jump back up to sentence in which this source was referenced:
 
-[^4  Jump back up to sentence in which this source was referenced:
+[^4]:  Jump back up to sentence in which this source was referenced:
 
