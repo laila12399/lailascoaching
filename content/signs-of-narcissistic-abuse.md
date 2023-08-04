@@ -72,8 +72,10 @@ Accountability as an attack on self-worth: The narcissist's inability to take ac
 
 Individuals in a relationship with a narcissist can leave significant emotional scars, being taken for granted and feeling devalued.
 
+
+References
+
 ---
-References 
 [^1]: (Levin, 2021) https://journals.co.za/doi/abs/10.10520/ejc-menhm_v8_n3_a8 Jump back up to sentence in which this source was referenced:
 
 [^2]: (Petric, 2018) https://www.juliedawndennis.co.uk/wp-content/uploads/2020/03/Gaslightingandtheknottheoryofmind.pdf Jump back up to sentence in which this source was referenced:
