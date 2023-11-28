@@ -2,7 +2,7 @@
 title: "Perfectionism vs Healthy Striving - According to Brené Brown"
 date: 2022-02-03T03:12:18+01:00
 lastmod: 2022-02-03T03:12:18+01:00
-draft: false
+draft: true
 cbreadcrumbs: ["Perfectionism"]
 author: "Laila"
 ---
