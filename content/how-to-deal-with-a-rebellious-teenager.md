@@ -2,7 +2,7 @@
 title: "How to Deal with a Rebellious Teenager"
 date: 2023-05-27T07:39:00+01:00
 lastmod: 2023-05-27T07:39:00+01:00
-draft: false
+draft: true
 cbreadcrumbs: ["Test"]
 author: "Laila"
 ---
