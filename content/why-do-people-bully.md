@@ -2,7 +2,7 @@
 title: "Why do people Bully"
 date: 2022-12-19T15:49:00+01:00
 lastmod: 2022-12-19T15:49:00+01:00
-draft: false
+draft: true
 cbreadcrumbs: ["Bullying"]
 author: "Laila"
 ---
