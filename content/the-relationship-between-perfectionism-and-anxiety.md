@@ -2,7 +2,7 @@
 title: "The Relationship Between Perfectionism and Anxiety"
 date: 2022-04-04T11:36:01+01:00
 lastmod: 2022-04-04T11:36:01+01:00
-draft: false
+draft: true
 cbreadcrumbs: ["Perfectionism"]
 author: "Laila"
 ---
