@@ -2,7 +2,7 @@
 title: "'Advantages' and 'Disadvantages' of Perfectionism"
 date: 2022-02-01T01:13:20+01:00
 lastmod: 2022-02-24T24:14:01+01:00
-draft: false
+draft: true
 cbreadcrumbs: ["Perfectionism"]
 author: "Laila"
 ---
