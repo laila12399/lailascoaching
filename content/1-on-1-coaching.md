@@ -16,7 +16,7 @@ Use this form if you would like to arrange a 1-on-1 coaching call with me.
 **I coaching in 2 Areas:**
 
 
-**1) Accountability & Productivity** - sounds small but can transforms daily life🔆
+**1) Accountability & Productivity** 
 
 
 **2) Perfectionism & Effcientcy** - Most popular🔥
