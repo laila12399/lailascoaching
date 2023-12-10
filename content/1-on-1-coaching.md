@@ -19,7 +19,7 @@ Use this form if you would like to arrange a 1-on-1 coaching call with me.
 **1) Accountability & Productivity** - sounds small but can transforms daily life🔆
 
 
-**3) Perfectionism & Effcientcy** - Most popular🔥
+**2) Perfectionism & Effcientcy** - Most popular🔥
 
 
 {{< contactformone >}}
