@@ -12,7 +12,7 @@ hidden: true
 
 ## Hi! I'm Laila. 
 
-{{< figure src="/files/lailascoaching1.jpeg" alt="imt" width="200px" class="about-left" >}} 
+{{< figure src="/files/lailascoaching3.jpeg" alt="imt" width="200px" class="about-left" >}} 
 
 --- 
 I was born in Germany and live in London, UK. I research and write about psychological phenomena as a student of Psychology.
