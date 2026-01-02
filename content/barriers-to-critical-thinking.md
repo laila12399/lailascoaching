@@ -81,8 +81,6 @@ Hardcore non-conformists- Individuals who express their opinions because they al
 
 Avant-garde- Individuals who speak out because they believe they are "ahead of the times."
 
-In fact, my father’s university professor was an assistant to the political scientist Elisabet Noelle- Neuman who proposed the Spiral of silence.
-
 ## :microscope: Critical Thinking Style
 Critical thinking is the systematic evaluation of information with the use of asking critical questions, evaluating credibility and extending implications.
 
