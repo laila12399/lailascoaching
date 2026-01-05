@@ -2,7 +2,7 @@
 title: "Overcome Perfectionism Procrastination With Psychology"
 date: 2022-03-31T15:30:01+01:00
 lastmod: 2022-04-03T11:38:01+01:00
-draft: false
+draft: true
 cbreadcrumbs: ["Perfectionism"]
 author: "Laila"
 ---
