@@ -2,7 +2,7 @@
 title: "How to Become Disciplined According to Roman Emperor Marcus Aurelius"
 date: 2022-03-26T21:18:01+01:00
 lastmod: 2022-03-26T21:18:01+01:00
-draft: false
+draft: true
 cbreadcrumbs: ["Productivity"]
 author: "Laila"
 ---
