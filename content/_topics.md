@@ -15,7 +15,7 @@ hidden: true
 2. ['Advantages' and 'Disadvantages' of Perfectionism](/advantage-and-disadvantages-of-perfectionism/)
 3. [Perfectionism vs Healthy Striving- According to Brené Brown](/perfectionism-vs-healthy-striving-according-to-brene-brown/)
 4. [Overcome Perfectionism Procrastination With Psychology](/overcome-perfectionism-procrastination-with-psychology/)-->
-6. [How to Become Efficient as a Perfectionist](how-to-become-efficient-as-a-perfectionist)
+6. [How to Become Efficient as a Perfectionist](/how-to-become-efficient-as-a-perfectionist/)
 <!--5. [The Relationship Between Perfectionism and Anxiety](/the-relationship-between-perfectionism-and-anxiety/)
 
 
