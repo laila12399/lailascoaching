@@ -2,7 +2,7 @@
 title: "How to Train Emotions"
 date: 2022-11-03T14:53:01+01:00
 lastmod: 2022-11-03T14:53:01+01:00
-draft: false
+draft: true
 cbreadcrumbs: ["Productivity"]
 author: "Laila"
 ---
