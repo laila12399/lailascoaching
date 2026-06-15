@@ -2,7 +2,7 @@
 title: "How to Become Efficient as a Perfectionist"
 date: 2022-12-12T13:41:00+01:00
 lastmod: 2022-12-12T13:41:00+01:00
-draft: false
+draft: true
 cbreadcrumbs: ["Perfectionism"]
 author: "Laila"
 ---
