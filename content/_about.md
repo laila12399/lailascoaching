@@ -4,7 +4,7 @@ author: "-"
 date: 2021-11-28T18:22:52+01:00
 lastmod: 2022-01-30T18:10:52+01:00
 hidemeta: true 
-draft: true
+draft: false
 url: "/about/"
 showtoc: false
 hidden: false
