@@ -7,7 +7,7 @@ hidemeta: true
 draft: true
 url: "/about/"
 showtoc: false
-hidden: true
+hidden: false
 ---
 
 ## Hi! I'm Laila. 
